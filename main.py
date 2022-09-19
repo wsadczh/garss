@@ -11,7 +11,6 @@ import json
 import shutil
 from urllib.parse import urlparse
 from multiprocessing import Pool,  Manager
-from pytypecho import Typecho, Post
 
 
 def get_rss_info(feed_url, index, rss_info_list):
