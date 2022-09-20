@@ -103,36 +103,21 @@ def send_mail(email, title, contents):
 
 
 def replace_readme():
-    new_edit_readme_md = ["", ""]
-    current_date_news_index = [""]
-
     # 读取EditREADME.md
     print("replace_readme")
     new_num = 0
+    markdown_str = ''
     with open(os.path.join(os.getcwd(), "EditREADME.md"), 'r') as load_f:
         edit_readme_md = load_f.read()
-
-        new_edit_readme_md[0] = edit_readme_md
         before_info_list = re.findall(
             r'\{\{latest_content\}\}.*\[订阅地址\]\(.*\)', edit_readme_md)
-        # 填充统计RSS数量
-        new_edit_readme_md[0] = new_edit_readme_md[0].replace(
-            "{{rss_num}}", str(len(before_info_list)))
-        # 填充统计时间
-        # ga_rss_datetime = datetime.fromtimestamp(int(time.time()),pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
-        ga_rss_datetime = datetime.fromtimestamp(
-            int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d')
-        new_edit_readme_md[0] = new_edit_readme_md[0].replace(
-            "{{ga_rss_datetime}}", str(ga_rss_datetime))
-
         # 使用进程池进行数据获取，获得rss_info_list
         before_info_list_len = len(before_info_list)
         rss_info_list = Manager().list(range(before_info_list_len))
-        print('初始化完毕==》', rss_info_list)
+        print('before_info_list==》', before_info_list)
 
         # 创建一个最多开启8进程的进程池
         po = Pool(8)
-
         for index, before_info in enumerate(before_info_list):
             # 获取link
             link = re.findall(r'\[订阅地址\]\((.*)\)', before_info)[0]
@@ -143,80 +128,29 @@ def replace_readme():
 
         # 主进程等待所有子进程结束
         po.join()
-        print("----结束----", rss_info_list)
-
+        print("----rss_info_list----", rss_info_list)
         for index, before_info in enumerate(before_info_list):
             print('before_info', before_info)
             # 获取link
             link = re.findall(r'\[订阅地址\]\((.*)\)', before_info)[0]
             # 生成超链接
             rss_info = rss_info_list[index]
-            latest_content = ""
-            parse_result = urlparse(link)
-            scheme_netloc_url = str(parse_result.scheme) + \
-                "://"+str(parse_result.netloc)
-            latest_content = "[暂无法获取信息, 请点击进入源网站主页](" + scheme_netloc_url + ")"
-
-            # 加入到索引
-            try:
+            print('rss_info', rss_info)
+            if len(rss_info) > 0:
+                markdown_str = markdown_str + '\r\n' + '\r\n' + \
+                    f'###  {rss_info[0]["feed_author"]}' + '\r\n' + '\r\n'
                 for rss_info_atom in rss_info:
                     if (rss_info_atom["date"] == datetime.today().strftime("%Y-%m-%d")):
-                        new_num = new_num + 1
-                        if (new_num % 2) == 0:
-                            current_date_news_index[0] = current_date_news_index[0] + "<div style='line-height:3;' ><a  target=_blank rel=nofollow href='" + rss_info_atom["link"] + \
-                                "' " + 'style="line-height:2;text-decoration:none;display:block;color:#584D49;">' + \
-                                "第" + str(new_num) + "篇  | " + \
-                                rss_info_atom["title"] + "</a></div>"
-                        else:
-                            current_date_news_index[0] = current_date_news_index[0] + "<div style='line-height:3;background-color:#FAF6EA;' ><a target=_blank rel=nofollow href='" + \
-                                rss_info_atom["link"] + "' " + 'style="line-height:2;text-decoration:none;display:block;color:#584D49;">' + "第" + str(
-                                    new_num) + "篇 | " + rss_info_atom["title"] + "</a></div>"
-
-            except:
-                print("An exception occurred")
-
-            if(len(rss_info) > 0):
-                rss_info[0]["title"] = rss_info[0]["title"].replace("|", "\|")
-                rss_info[0]["title"] = rss_info[0]["title"].replace("[", "\[")
-                rss_info[0]["title"] = rss_info[0]["title"].replace("]", "\]")
-
-                latest_content = "[" + "‣ " + rss_info[0]["title"] + ("  " + rss_info[0]["date"] if (rss_info[0]["date"] == datetime.today(
-                ).strftime("%Y-%m-%d")) else " \| " + rss_info[0]["date"]) + "](" + rss_info[0]["link"] + ")"
-
-            if(len(rss_info) > 1):
-                rss_info[1]["title"] = rss_info[1]["title"].replace("|", "\|")
-                rss_info[1]["title"] = rss_info[1]["title"].replace("[", "\[")
-                rss_info[1]["title"] = rss_info[1]["title"].replace("]", "\]")
-
-                latest_content = latest_content + "<br/>[" + "‣ " + rss_info[1]["title"] + ("   " + rss_info[0]["date"] if (
-                    rss_info[0]["date"] == datetime.today().strftime("%Y-%m-%d")) else " \| " + rss_info[0]["date"]) + "](" + rss_info[1]["link"] + ")"
-
-            # 生成after_info
-            after_info = before_info.replace(
-                "{{latest_content}}", latest_content)
-            print("====latest_content==>", latest_content)
-            # 替换edit_readme_md中的内容
-            new_edit_readme_md[0] = new_edit_readme_md[0].replace(
-                before_info, after_info)
-
-    # 替换EditREADME中的索引
-    new_edit_readme_md[0] = new_edit_readme_md[0].replace(
-        "{{news}}", current_date_news_index[0])
-    # 替换EditREADME中的新文章数量索引
-    new_edit_readme_md[0] = new_edit_readme_md[0].replace(
-        "{{new_num}}", str(new_num))
-    # 添加CDN
-    # new_edit_readme_md[0] = new_edit_readme_md[0].replace("./_media", "https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media")
-    new_edit_readme_md[0] = new_edit_readme_md[0].replace(
-        "./_media", "https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media")
-    # 将新内容
-    with open(os.path.join(os.getcwd(), "README.md"), 'w') as load_f:
-        load_f.write(new_edit_readme_md[0])
-
-    mail_re = r'列表开始>([.\S\s]*)<列表结束'
-    reResult = re.findall(mail_re, new_edit_readme_md[0])
-    new_edit_readme_md[1] = reResult
-    return new_edit_readme_md
+                        new_num += 1
+                        onelink_el = f'<a rel=nofollow href="{rss_info_atom["feed_url"]}" target="_blank">{rss_info_atom["title"]}-{rss_info_atom["date"]}</a><br/>'
+                        markdown_str += onelink_el
+                        print('onelink_el', onelink_el)
+                markdown_str += '\r\n'
+            markdown_str += '\r\n'
+    markdown_str = f'<h1>{datetime.today().strftime("%Y-%m-%d")}</h1><br/>共{new_num}篇文章' + \
+        '\r\n' + markdown_str
+    print('markdown_str', markdown_str)
+    return markdown_str
 
 # 将README.md复制到docs中
 
@@ -226,22 +160,6 @@ def cp_readme_md_to_docs():
         int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d')
     shutil.copyfile(os.path.join(os.getcwd(), "README.md"),
                     os.path.join(os.getcwd(), "docs", f"{post_datetime}.md"))
-
-
-def add_sidebar():
-    post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d')
-    new_md = f'* [{post_datetime}]({post_datetime}) \r\n'
-    file = open("./docs/_sidebar.md", 'a')
-    file.write(new_md)
-    file.close()
-
-
-def cp_media_to_docs():
-    if os.path.exists(os.path.join(os.getcwd(), "docs", "_media")):
-        shutil.rmtree(os.path.join(os.getcwd(), "docs", "_media"))
-    shutil.copytree(os.path.join(os.getcwd(), "_media"),
-                    os.path.join(os.getcwd(), "docs", "_media"))
 
 
 def get_email_list():
@@ -256,10 +174,8 @@ def get_email_list():
 
 
 def create_opml():
-
     result = ""
     result_v1 = ""
-
     # <outline text="CNET News.com" description="Tech news and business reports by CNET News.com. Focused on information technology, core topics include computers, hardware, software, networking, and Internet media." htmlUrl="http://news.com.com/" language="unknown" title="CNET News.com" type="rss" version="RSS2" xmlUrl="http://news.com.com/2547-1_3-0-5.xml"/>
 
     with open(os.path.join(os.getcwd(), "EditREADME.md"), 'r') as load_f:
@@ -346,26 +262,32 @@ def create_opml():
     # print(result)
 
 
+def add_sidebar():
+    post_datetime = datetime.fromtimestamp(
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d')
+    new_md = f'* [{post_datetime}]({post_datetime}) \r\n'
+    with open('./docs/_sidebar.md', 'r') as f:
+        old_md = f.read()
+    with open('./docs/_sidebar.md', 'w') as f:
+        old_md = f.write(new_md + old_md)
+
+
 def main():
     # 要先获取分类，没有的话，需要新建，这种方式好方便，不用解析数据库，但解析数据库貌似才是最好的
     # 等会儿抽时间看数据库的内容
     create_opml()
     readme_md = replace_readme()
-    content = markdown.markdown(readme_md[0], extensions=[
-                                'tables', 'fenced_code'])
+    file = open("./README.md", 'w')
+    file.write(readme_md)
+    file.close()
     cp_readme_md_to_docs()
-    cp_media_to_docs()
     add_sidebar()
     email_list = get_email_list()
     print('readme_md', readme_md)
-    print('content', content)
-    # mail_re = r'列表开始>([.\S\s]*)<列表结束'
-    # reResult = re.findall(mail_re, readme_md[0])
-    # print('reResult', reResult)
     post_datetime = datetime.fromtimestamp(
         int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d')
     try:
-        send_mail(email_list, f"{post_datetime} 文章汇总", content)
+        send_mail(email_list, f"{post_datetime} 文章汇总", readme_md)
     except Exception as e:
         print("==邮件设信息置错误===》》", e)
 

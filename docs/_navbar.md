@@ -1,1 +1,1 @@
-* [《嘎!RSS》Github](https://github.com/zhaoolee/garss)
+* [《RSS参考》Github](https://github.com/zhaoolee/garss)
