@@ -148,7 +148,7 @@ def replace_readme():
                 markdown_str += '\r\n'
             markdown_str += '\r\n'
     post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H:%M:%S')
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%_H%M%S')
     markdown_str = f'<h1>{post_datetime}</h1><br/>共{new_num}篇文章' + \
         '\r\n' + markdown_str
     print('markdown_str', markdown_str)
@@ -159,7 +159,7 @@ def replace_readme():
 
 def cp_readme_md_to_docs():
     post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H:%M:%S')
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%_H%M%S')
     shutil.copyfile(os.path.join(os.getcwd(), "README.md"),
                     os.path.join(os.getcwd(), "docs", f"{post_datetime}.md"))
 
@@ -264,7 +264,7 @@ def create_opml():
 
 def add_sidebar():
     post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H:%M:%S')
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%_H%M%S')
     new_md = f'* [{post_datetime}]({post_datetime}) \r\n'
     with open('./docs/_sidebar.md', 'r') as f:
         old_md = f.read()
@@ -286,7 +286,7 @@ def main():
     print('readme_md', readme_md)
     # 填充统计时间
     post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H:%M:%S')
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%_H%M%S')
     try:
         send_mail(email_list, f"{post_datetime} 文章汇总", readme_md)
     except Exception as e:
