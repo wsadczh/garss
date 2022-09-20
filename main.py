@@ -147,7 +147,9 @@ def replace_readme():
                         print('onelink_el', onelink_el)
                 markdown_str += '\r\n'
             markdown_str += '\r\n'
-    markdown_str = f'<h1>{datetime.today().strftime("%Y-%m-%d")}</h1><br/>共{new_num}篇文章' + \
+    post_datetime = datetime.fromtimestamp(
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H:%M:%S')
+    markdown_str = f'<h1>{post_datetime}</h1><br/>共{new_num}篇文章' + \
         '\r\n' + markdown_str
     print('markdown_str', markdown_str)
     return markdown_str
