@@ -362,12 +362,12 @@ def main():
     # mail_re = r'列表开始>([.\S\s]*)<列表结束'
     # reResult = re.findall(mail_re, readme_md[0])
     # print('reResult', reResult)
-    # post_datetime = datetime.fromtimestamp(
-    #     int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d')
-    # try:
-    #     send_mail(email_list, f"{post_datetime} 文章汇总", content)
-    # except Exception as e:
-    #     print("==邮件设信息置错误===》》", e)
+    post_datetime = datetime.fromtimestamp(
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d')
+    try:
+        send_mail(email_list, f"{post_datetime} 文章汇总", content)
+    except Exception as e:
+        print("==邮件设信息置错误===》》", e)
 
 
 if __name__ == "__main__":
