@@ -142,7 +142,7 @@ def replace_readme():
                 for rss_info_atom in rss_info:
                     if (rss_info_atom["date"] == datetime.today().strftime("%Y-%m-%d")):
                         new_num += 1
-                        onelink_el = f'<a rel=nofollow href="{rss_info_atom["link"]}" target="_blank">{rss_info_atom["title"]}-{rss_info_atom["date"]}</a><br/>'
+                        onelink_el = f'<a target=_blank rel=nofollow href="{rss_info_atom["link"]}" >{rss_info_atom["title"]}-{rss_info_atom["date"]}</a><br/>'
                         markdown_str += onelink_el
                         print('onelink_el', onelink_el)
                 markdown_str += '\r\n'
@@ -157,7 +157,7 @@ def replace_readme():
 
 def cp_readme_md_to_docs():
     post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H:%M:%S')
     shutil.copyfile(os.path.join(os.getcwd(), "README.md"),
                     os.path.join(os.getcwd(), "docs", f"{post_datetime}.md"))
 
@@ -262,7 +262,7 @@ def create_opml():
 
 def add_sidebar():
     post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H:%M:%S')
     new_md = f'* [{post_datetime}]({post_datetime}) \r\n'
     with open('./docs/_sidebar.md', 'r') as f:
         old_md = f.read()
@@ -284,7 +284,7 @@ def main():
     print('readme_md', readme_md)
     # 填充统计时间
     post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H:%M:%S')
     try:
         send_mail(email_list, f"{post_datetime} 文章汇总", readme_md)
     except Exception as e:
