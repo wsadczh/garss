@@ -21,6 +21,7 @@
 | ---- | ---------------------------- | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
 | W001 | 刘润                         | 刘润                                                         | {{latest_content}} | [订阅地址](https://api.feeddd.org/feeds/613570931269c358aa0f0cca) |
 | W002 | 奔跑的奶酪                         | 奔跑的奶酪                                                        | {{latest_content}} | [订阅地址](https://api.feeddd.org/feeds/6132e69f1269c358aa0e773e) |
+| W002 | 如有乐享                       | 如有乐享                                                     | {{latest_content}} | [订阅地址](https://51.ruyo.net/feed) |
 | W002 | Easy Indie                        | 让小产品的独立变现更简单                                                     | {{latest_content}} | [订阅地址](https://www.ezindie.com/feed/rss.xml) |
 | W002 | ruanyf/weekly  | ruanyf/weekly                                                | {{latest_content}} | [订阅地址](https://rsshub.v2fy.com/github/issue/ruanyf/weekly) |
 | W002 | 好工具周刊  | 好工具周刊                                                | {{latest_content}} | [订阅地址](https://discuss-cn.bestxtools.com/atom/t/weekly) |
