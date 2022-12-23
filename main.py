@@ -277,9 +277,9 @@ def main():
     # 等会儿抽时间看数据库的内容
     create_opml()
     readme_md = replace_readme()
-    file = open("./README.md", 'w')
-    file.write(readme_md)
-    file.close()
+    # file = open("./README.md", 'w')
+    # file.write(readme_md)
+    # file.close()
     cp_readme_md_to_docs()
     add_sidebar()
     email_list = get_email_list()
