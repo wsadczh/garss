@@ -20,6 +20,8 @@
 | 编号 | 名称                         | 描述                                                         | 最新出炉           | 最新内容                                                     |
 | ---- | ---------------------------- | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
 | W001 | 刘润                         | 刘润                                                         | {{latest_content}} | [订阅地址](https://api.feeddd.org/feeds/613570931269c358aa0f0cca) |
+| W001 | L先生说                         | L先生说                                                        | {{latest_content}} | [订阅地址](http://feed43.com/5222183304066885.xml) |
+| W001 | 醒醒生活记录仪                         | 醒醒生活记录仪                                                       | {{latest_content}} | [订阅地址](http://feed43.com/1317676845733222.xml) |
 | W002 | 奔跑的奶酪                         | 奔跑的奶酪                                                        | {{latest_content}} | [订阅地址](https://api.feeddd.org/feeds/6132e69f1269c358aa0e773e) |
 | W002 | 如有乐享                       | 如有乐享                                                     | {{latest_content}} | [订阅地址](https://51.ruyo.net/feed) |
 | W002 | Easy Indie                        | 让小产品的独立变现更简单                                                     | {{latest_content}} | [订阅地址](https://www.ezindie.com/feed/rss.xml) |
