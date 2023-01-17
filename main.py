@@ -160,7 +160,7 @@ def replace_readme():
 def cp_readme_md_to_docs():
     post_datetime = datetime.fromtimestamp(
         int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
-    shutil.copyfile(os.path.join(os.getcwd(), "./docs/README.md"),
+    shutil.copyfile(os.path.join(os.getcwd(), "./docs/Temp.md"),
                     os.path.join(os.getcwd(), "docs", f"{post_datetime}.md"))
 
 
@@ -277,7 +277,7 @@ def main():
     # 等会儿抽时间看数据库的内容
     create_opml()
     readme_md = replace_readme()
-    file = open("./docs/README.md", 'w')
+    file = open("./docs/Temp.md", 'w')
     file.write(readme_md)
     file.close()
     cp_readme_md_to_docs()
