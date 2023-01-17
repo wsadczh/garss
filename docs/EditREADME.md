@@ -20,8 +20,11 @@
 | 编号 | 名称                         | 描述                                                         | 最新出炉           | 最新内容                                                     |
 | ---- | ---------------------------- | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
 | W001 | 刘润                         | 刘润                                                         | {{latest_content}} | [订阅地址](https://api.feeddd.org/feeds/613570931269c358aa0f0cca) |
-| W001 | L先生说                         | L先生说                                                        | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/1a50a769f31135a4aac119a058475686.xml) |
-| W001 | 醒醒生活记录仪                         | 醒醒生活记录仪                                                       | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/f8e038a7b73032077c895678cd994239.xml) |
+| W001 | lxianshengmiao                         | lxianshengmiao                                                    | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/lxianshengmiao.xml) |
+| W001 | Axu-TongXue                         | Axu-TongXue                                                    | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/Axu-TongXue.xml) |
+| W001 | xinglife1                         | xinglife1                                                       | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/xinglife1.xml) |
+| W001 | caozsay                         | caozsay                                                    | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/caozsay.xml) |
+| W001 | guxiaobei365                         | guxiaobei365                                                      | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/guxiaobei365.xml) |
 | W002 | 奔跑的奶酪                         | 奔跑的奶酪                                                        | {{latest_content}} | [订阅地址](https://api.feeddd.org/feeds/6132e69f1269c358aa0e773e) |
 | W002 | 如有乐享                       | 如有乐享                                                     | {{latest_content}} | [订阅地址](https://51.ruyo.net/feed) |
 | W002 | Easy Indie                        | 让小产品的独立变现更简单                                                     | {{latest_content}} | [订阅地址](https://www.ezindie.com/feed/rss.xml) |
