@@ -107,7 +107,7 @@ def replace_readme():
     print("replace_readme")
     new_num = 0
     markdown_str = ''
-    with open(os.path.join(os.getcwd(), "EditREADME.md"), 'r') as load_f:
+    with open(os.path.join(os.getcwd(), "./docs/EditREADME.md"), 'r') as load_f:
         edit_readme_md = load_f.read()
         before_info_list = re.findall(
             r'\{\{latest_content\}\}.*\[订阅地址\]\(.*\)', edit_readme_md)
@@ -160,7 +160,7 @@ def replace_readme():
 def cp_readme_md_to_docs():
     post_datetime = datetime.fromtimestamp(
         int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
-    shutil.copyfile(os.path.join(os.getcwd(), "README.md"),
+    shutil.copyfile(os.path.join(os.getcwd(), "./docs/README.md"),
                     os.path.join(os.getcwd(), "docs", f"{post_datetime}.md"))
 
 
@@ -180,7 +180,7 @@ def create_opml():
     result_v1 = ""
     # <outline text="CNET News.com" description="Tech news and business reports by CNET News.com. Focused on information technology, core topics include computers, hardware, software, networking, and Internet media." htmlUrl="http://news.com.com/" language="unknown" title="CNET News.com" type="rss" version="RSS2" xmlUrl="http://news.com.com/2547-1_3-0-5.xml"/>
 
-    with open(os.path.join(os.getcwd(), "EditREADME.md"), 'r') as load_f:
+    with open(os.path.join(os.getcwd(), "./docs/EditREADME.md"), 'r') as load_f:
         edit_readme_md = load_f.read()
 
         # 将信息填充到opml_info_list
@@ -277,7 +277,7 @@ def main():
     # 等会儿抽时间看数据库的内容
     create_opml()
     readme_md = replace_readme()
-    file = open("./README.md", 'w')
+    file = open("./docs/README.md", 'w')
     file.write(readme_md)
     file.close()
     cp_readme_md_to_docs()
