@@ -26,6 +26,7 @@
 | W001 | caozsay                         | caozsay                                                    | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/caozsay.xml) |
 | W001 | guxiaobei365                         | guxiaobei365                                                      | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/guxiaobei365.xml) |
 | W001 | sspaime                         | sspaime                                                      | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/sspaime.xml) |
+| W001 | runliu-pub                    | runliu-pub                                                     | {{latest_content}} | [订阅地址](http://119.45.23.26:18001/runliu-pub.xml) |
 | W002 | 奔跑的奶酪                         | 奔跑的奶酪                                                        | {{latest_content}} | [订阅地址](https://api.feeddd.org/feeds/6132e69f1269c358aa0e773e) |
 | W002 | 如有乐享                       | 如有乐享                                                     | {{latest_content}} | [订阅地址](https://51.ruyo.net/feed) |
 | W002 | Easy Indie                        | 让小产品的独立变现更简单                                                     | {{latest_content}} | [订阅地址](https://www.ezindie.com/feed/rss.xml) |
