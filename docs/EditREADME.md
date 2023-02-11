@@ -31,6 +31,7 @@
 | W002 | 如有乐享                       | 如有乐享                                                     | {{latest_content}} | [订阅地址](https://51.ruyo.net/feed) |
 | W002 | Easy Indie                        | 让小产品的独立变现更简单                                                     | {{latest_content}} | [订阅地址](https://www.ezindie.com/feed/rss.xml) |
 | W002 | ruanyf/weekly  | ruanyf/weekly                                                | {{latest_content}} | [订阅地址](https://rsshub.v2fy.com/github/issue/ruanyf/weekly) |
+| W002 |xunihao   | xunihao                                               | {{latest_content}} | [订阅地址](https://xunihao.net/feed) |
 | W002 | 好工具周刊  | 好工具周刊                                                | {{latest_content}} | [订阅地址](https://discuss-cn.bestxtools.com/atom/t/weekly) |
 | W002 | 好工具周刊1  | 好工具周刊1                                                | {{latest_content}} | [订阅地址](https://docs.rsshub.app/blog.html#zhu-bai) |
 | S001 | 不死鸟                       | 不死鸟:专注分享优质资源                                      | {{latest_content}} | [订阅地址](https://iao.su/feed)                              |
