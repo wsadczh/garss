@@ -236,30 +236,29 @@ def create_opml():
 
             result_v1 = result_v1 + opml_info_text_v1 + "\n"
 
-    zhaoolee_github_garss_subscription_list = ""
-    with open(os.path.join(os.getcwd(), "rss-template-v2.txt"), 'r') as load_f:
-        zhaoolee_github_garss_subscription_list_template = load_f.read()
+    wsadczh_github_garss_subscription_list = ""
+    with open(os.path.join(os.getcwd(), "docs/rss-template-v2.txt"), 'r') as load_f:
+        wsadczh_github_garss_subscription_list_template = load_f.read()
         GMT_FORMAT = '%a, %d %b %Y %H:%M:%S GMT'
         date_created = datetime.utcnow().strftime(GMT_FORMAT)
         date_modified = datetime.utcnow().strftime(GMT_FORMAT)
-        zhaoolee_github_garss_subscription_list = zhaoolee_github_garss_subscription_list_template.format(
+        wsadczh_github_garss_subscription_list = wsadczh_github_garss_subscription_list_template.format(
             result=result, date_created=date_created, date_modified=date_modified)
-        # print(zhaoolee_github_garss_subscription_list);
+        # print(wsadczh_github_garss_subscription_list);
 
     # 将内容写入
-    with open(os.path.join(os.getcwd(), "zhaoolee_github_garss_subscription_list_v2.opml"), 'w') as load_f:
-        load_f.write(zhaoolee_github_garss_subscription_list)
+    with open(os.path.join(os.getcwd(), "docs/rss_v2.opml"), 'w') as load_f:
+        load_f.write(wsadczh_github_garss_subscription_list)
 
-    zhaoolee_github_garss_subscription_list_v1 = ""
-    with open(os.path.join(os.getcwd(), "rss-template-v1.txt"), 'r') as load_f:
-        zhaoolee_github_garss_subscription_list_template = load_f.read()
-        zhaoolee_github_garss_subscription_list_v1 = zhaoolee_github_garss_subscription_list_template.format(
+    wsadczh_github_garss_subscription_list_v1 = ""
+    with open(os.path.join(os.getcwd(), "docs/rss-template-v1.txt"), 'r') as load_f:
+        wsadczh_github_garss_subscription_list_template = load_f.read()
+        wsadczh_github_garss_subscription_list_v1 = wsadczh_github_garss_subscription_list_template.format(
             result=result_v1)
-        # print(zhaoolee_github_garss_subscription_list_v1);
 
     # 将内容写入
-    with open(os.path.join(os.getcwd(), "zhaoolee_github_garss_subscription_list_v1.opml"), 'w') as load_f:
-        load_f.write(zhaoolee_github_garss_subscription_list_v1)
+    with open(os.path.join(os.getcwd(), "docs/rss_v1.opml"), 'w') as load_f:
+        load_f.write(wsadczh_github_garss_subscription_list_v1)
 
 
 def add_sidebar():
