@@ -180,7 +180,7 @@ def create_opml():
     result_v1 = ""
     # <outline text="CNET News.com" description="Tech news and business reports by CNET News.com. Focused on information technology, core topics include computers, hardware, software, networking, and Internet media." htmlUrl="http://news.com.com/" language="unknown" title="CNET News.com" type="rss" version="RSS2" xmlUrl="http://news.com.com/2547-1_3-0-5.xml"/>
 
-    with open(os.path.join(os.getcwd(), "./docs/EditREADME.md"), 'r') as load_f:
+    with open(os.path.join(os.getcwd(), "docs/EditREADME.md"), 'r') as load_f:
         edit_readme_md = load_f.read()
 
         # 将信息填充到opml_info_list
