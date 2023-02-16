@@ -1,207 +1,23 @@
+<<<<<<< Updated upstream
 <h1>20230216061337</h1><br/>共278篇文章
-
-
-###  刘润
-
-<a target=_blank rel=nofollow href="https://mp.weixin.qq.com/s/yMQy9U4FtyQ_fY5HMFwZlQ" >02月15号：关于华为，你不知道的10件事儿-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://mp.weixin.qq.com/s/-IVu9_yfaIVPLam2OnNGbw" >怎么做职业规划？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://mp.weixin.qq.com/s/_1enVKMVvL2tUIqJY4qtfA" >铁的目标，铁的纪律，铁的意志-2023-02-15</a><br/>
-
-
-
-###  lxianshengmiao
-
-
-
-
-
-###  Axu-TongXue
-
-
-
-
-
-
-###  caozsay
-
-
-
-
-
-###  guxiaobei365
-
-
-
-
-
-###  sspaime
-
-
-
-
-
-
-###  奔跑中的奶酪
-
-
-
-
-
-###  如有乐享
-
-<a target=_blank rel=nofollow href="https://51.ruyo.net/18298.html" >实测OpenAI信用卡付款方式和升级ChatGPT Plus订阅-2023-02-15</a><br/>
-
-
-
-###  让小产品的独立变现更简单 - ezindie.com
-
-
-
-
-
-
-###  虚拟号
-
-
-
-
-
-
-
-###  不死鸟 - 分享为王官网
-
-<a target=_blank rel=nofollow href="https://iui.su/166/" >2023 年 2 月 每日分享-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://iui.su/3474/" >2023 年 每日图片-2023-02-15</a><br/>
-
-
-
-###  精品MAC应用分享
-
-<a target=_blank rel=nofollow href="https://xclient.info/s/things.html" >Things 3.17.3 一款优秀的GTD任务管理工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/lyn.html" >Lyn 2.2.4 轻量级看图软件-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/goodtask.html" >GoodTask 7.3.3 日历提醒工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/perfectly-clear-workbench.html" >Perfectly Clear WorkBench 4.3.0.2421 智能图片瑕疵处理工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/graphicconverter.html" >GraphicConverter 11.8.1.5766 图片编辑浏览工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/artstudio-pro.html" >Artstudio Pro 5.1 绘图和照片编辑-2023-02-15</a><br/>
-
-
-
-###  殁漂遥
-
-<a target=_blank rel=nofollow href="https://www.mpyit.com/msedge.html" >Edge 110.0.1587.46 官方PC离线安装包-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/edgemod.html" >Edge 110.0.1587.46 免安装便携版 采用edge++-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/360se14.html" >360安全浏览器 14.1.1001.0 无广告便携 双核浏览器-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/heukmsactivator.html" >HEU KMS Activator 28.0.0 授权工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/startallback.html" >StartAllBack 3.6.1.4641 Windows11开始菜单-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/cql.html" >原版 CCleaner 6.09.10300 系统优化工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/fxpdfeditor12xx.html" >Foxit PDF Editor Pro 12.1.1.15289 精简免安装-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/qqlive.html" >腾讯视频 11.63.2019 视频媒体平台-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/iqiyipc.html" >爱奇艺PC版 10.2.0.6681 高清正版视频-2023-02-15</a><br/>
-
-
-
-###  小众软件
-
-<a target=_blank rel=nofollow href="https://www.appinn.com/winfr-gui/" >WinFR界面版 – 基于微软官方命令行工具 Windows File Recovery 的误删除文件恢复工具-2023-02-15</a><br/>
-
-
-
-###  阮一峰的网络日志
-
-
-
-
-
-###  少数派
-
-<a target=_blank rel=nofollow href="https://sspai.com/post/78230" >家用咖啡手册 01 |  咖啡种类这么多，到底有什么不同？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://sspai.com/post/78289" >正确认识、高效利用：如何成为 ChatGPT 的受益者？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://sspai.com/post/78334" >放过微信放过自己，跨设备传文件还有这些姿势-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://sspai.com/post/78133" >年度征文 | 把阅读作为方法：从选书到笔记的经验分享-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://sspai.com/post/78328" >派早报：三星 Galaxy S23 系列国行版发布、特斯拉京东官方旗舰店上线等-2023-02-15</a><br/>
-
-
-
-###  虎嗅网
-
-<a target=_blank rel=nofollow href="http://www.huxiu.com/article/790997.html?f=wangzhan" >240W快充有啥用？充电1分钟，王者1小时-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.huxiu.com/article/791431.html?f=wangzhan" >你离最有创意的自己，只差一个“放空”？-2023-02-15</a><br/>
-
-
-
-###  36氪
-
-<a target=_blank rel=nofollow href="https://36kr.com/p/2133011695856645?f=rss" >Jasper for Business发布，仍使用OpenAI技术；Instagram宣布放弃直播购物|36氪企业服务日报0215-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132979201616898?f=rss" >销售易史彦泽：看好AI、大数据驱动、流程类的产品 | 展望2023-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132975413882117?f=rss" >九鼎投资李建立：看好To G数字化相关的产品和业务 | 展望2023-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132969474501639?f=rss" >氪星晚报 | 科大讯飞副总裁刘聪：经过两个月验证，有信心实现ChatGPT类似的技术阶跃进步；腾讯：广深地区小程序内测“门店快送”服务；特斯拉再招电动皮卡车生产线高管-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132678866529536?f=rss" >全年创收430亿美元，可口可乐公司新年展望看好中国市场-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132613012925446?f=rss" >求购Space X、Neuralink老股；转让持有Shein、某头部自动驾驶公司的基金份额｜资情留言板第81期-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132538260204547?f=rss" >最前线｜「马蜂窝」时隔近4年完成新一轮融资，但在线旅游格局已变-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132474994797827?f=rss" >穿越合成生物学「死亡谷」，蓝晶微生物新获近10亿元资金加持｜36氪专访-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2131750092860673?f=rss" >最前线| 直播卖房起量，2022年快手卖房卖了100亿元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2131103047396355?f=rss" >拼多多Temu广告首秀：花1亿人民币，让1亿美国用户看到｜营销观察-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133119650786566?f=rss" >工农中建等多家银行下发通知：加快处理积压申请，按照合同约定做好提前还款服务-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133117323406345?f=rss" >首台国产HA级重型燃机在秦皇岛下线-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133115747970054?f=rss" >国家版权局：2021年中国版权产业增加值占到GDP的7.41%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133114597666057?f=rss" >我国首个跨地级市核能供热长输管网工程正式开工-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133114275753219?f=rss" >OpenAI CEO安抚外界担忧：ChatGPT不是人类的“就业杀手-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133112345226245?f=rss" >《羊了个羊》营收破亿，主创团队已内测女性向新游戏-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133111628164101?f=rss" >山西首批15家虚拟电厂建设完成-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133106802830338?f=rss" >日本伊藤忠将向亚马逊和Meta提供可再生能源-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133104729877509?f=rss" >国产特斯拉Model 3和Model Y已开始在泰国交付-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133102074604801?f=rss" >国家外汇管理局：1月份境外投资者对境内股票投资创单月历史新高-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133098312444928?f=rss" >极光闪达宣布将在邮件服务中整合ChatGPT技术-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133097574460421?f=rss" >热门中概股美股盘前涨跌不一，百度涨超2%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133092102319108?f=rss" >美股大型科技股盘前多数下跌，特斯拉涨超2%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133080940358665?f=rss" >埃克森美孚中国新研发中心在广东惠州动工-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133077575281927?f=rss" >华尔街监管机构将采取针对与游戏驿站事件类似的风险的规则-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133076207873032?f=rss" >蔚来已申请注册NIOPHONE商标-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133074378501380?f=rss" >三星：可能为智能手机开发AI新技术，微软、谷歌、亚马逊和Meta是潜在商业伙伴-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133073676692480?f=rss" >德州仪器拟扩大日本福岛工厂氮化镓晶圆产能-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133073033063431?f=rss" >四部门：中小学校、幼儿园原则上校内不设小卖部与超市-2023-02-15</a><br/>
-
-
-
-###  极客公园
-
-<a target=_blank rel=nofollow href="http://www.geekpark.net/news/314883" >ChatGPT 上车，集度融合文心一言；传宿华离开创业做芯片，快手：严重不实；传马斯克有意 45 亿英镑收购曼联 | 极客早知道-2023-02-15</a><br/>
+=======
+<h1>20230216102202</h1><br/>共99篇文章
+>>>>>>> Stashed changes
 
 
 
 ###  Hacker News
 
-<a target=_blank rel=nofollow href="https://simonwillison.net/2023/Feb/15/bing/" >Bing: “I will not harm you unless you harm me first”-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://mitpress.mit.edu/9780262546379/the-little-learner/" >The Little Learner: A Straight Line to Deep Learning-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://erich-friedman.github.io/packing/squinsqu/" >Squares in Squares-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://brr.fyi/posts/last-flight-out" >Last Flight Out-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://bigthink.com/thinking/is-speech-violence/" >Speech is violence? Not if we want a liberal, intellectual society-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.nature.com/articles/d41586-023-00383-9" >Sea life bounced back fast after the ‘mother of mass extinctions’-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://wccftech.com/amd-grabs-over-30-percent-market-share-with-epyc-cpus-intel-continues-to-decline/" >AMD Grabs over 30% CPU Market Share as Intel Continues to Decline-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnbc.com/2023/02/15/sam-bankman-frieds-two-bond-guarantors-revealed-after-unsealing-.html" >FTX founder Sam Bankman-Fried’s two bond guarantors unsealed, ties to Stanford-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://adam.chlipala.net/mlcomp/" >Comparing Objective Caml and Standard ML-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://usrtk.org/risky-research/intrepid-virus-hunter-peter-daszak-flies-in-style/" >Daszak and EcoHealth drew attention for luxury flights-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://blogit.michelin.io/an-introduction-to-datalog/" >Introduction to Datalog-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.njohnston.ca/publications/conways-game-of-life-mathematics-and-construction/" >Conway’s Game of Life: Mathematics and Construction-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://mainichi.jp/english/articles/20230214/p2g/00m/0bu/043000c" >Shoichiro Toyoda, who turned Toyota into global automaker, has died-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://equals.app/dashboards/" >Show HN: Build auto-updating dashboards in a spreadsheet-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://dl.acm.org/doi/10.1145/1013881.802685" >What if mass storage were free? (1980)-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.rerun.io/blog/oss-beta" >Rerun OSS beta is released-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://9to5mac.com/2023/02/15/apple-headset-release-date-delayed/" >Apple delays its mixed reality headset by two months, to debut at WWDC this June-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://blogit.michelin.io/clojure-programming/" >Clojure in the Tyre Manufacturing Industry-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://github.com/swarmlet/swarmlet" >Swarmlet: A self-hosted, open-source Platform as a Service-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://ia801508.us.archive.org/25/items/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.66.0.pdf" >SBF Caught Using VPN While Awaiting Criminal Trial [pdf]-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://lab.quantumflytrap.com/" >Virtual Optical Table for Quantum Visualization-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss" >Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://github.com/keephq/keep" >Show HN: Keep – Open-source alerting CLI-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/" >From Bing to Sydney-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.quadibloc.com/other/bo0201.htm" >Making Full Use of Three Ordinary Dice-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy" >Intel Publishes Fast AVX-512 Sorting Library, 10~17x Faster Sorts in NumPy-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.7.0.html" >What&#x27;s new in Matplotlib 3.7-2023-02-15</a><br/>
+<a target=_blank rel=nofollow href="https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/" >Scientists find first observational evidence linking black holes to dark energy-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://alexwlchan.net/2022/no-cute/" >Cut the Cutesy Errors-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://github.com/slawlor/ractor" >Show HN: Ractor – a Rust-based actor framework with clusters and supervisors-2023-02-16</a><br/>
 
 
 
-###  奇客Solidot–传递最新科技情报
-
-<a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74146" >气候变化扩大蚊子活动范围-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74145" >Rust 如何从业余项目变成世界最热门的语言之一-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74144" >Thunderbird 预览新 UI-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74143" >ChatGPT 能做什么，为什么它做到了-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74142" >微软释出更新从 Windows 10 PC 上永久移除 IE-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74141" >指纹是如何形成的-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74140" >马斯克如何大幅提高其推文的曝光度-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74139" >美国空军成功测试 AI 控制的战斗机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74138" >现代和起亚被迫更新软件以应对 TikTok 病毒式传播的“起亚挑战”视频-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74137" >GitHub Copilot 推出企业版-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74136" >Firefox 110 释出-2023-02-15</a><br/>
-
-
-
-
-
-###  知乎每日精选
-
-<a target=_blank rel=nofollow href="http://www.zhihu.com/question/583582025/answer/2893152963?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title" >如何评价密室逃脱游戏主题《Mary I》？-2023-02-15</a><br/>
-
-
-
-
-###  互联网数据资讯网-199IT
-
-<a target=_blank rel=nofollow href="http://www.199it.com/archives/1553646.html" >MARCO Research：2022年后疫情时代消费者行为调查报告-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1518710.html" >复旦DMG：2022年卫生健康公共数据开放报告-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560484.html" >毕马威：2023年一季度中国经济观察-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560402.html" >SRG：2022年Q4全球云基础设施服务支出超过610亿美元-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560207.html" >36氪研究院：2023年中国自动驾驶行业研究报告（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1543021.html" >年轻人的酒：中国酒类品类创新研究报告（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1544362.html" >黑马工厂：2022年坚果行业洞察（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1533628.html" >贝壳研究院：2022家装设计师职业发展白皮书（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1558601.html" >​腾讯研究院：2023年AIGC发展趋势报告（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560578.html" >2022年全球主要智能手机厂商出货量市场份额（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560575.html" >2022年全球主要智能手机厂商出货量及增长率（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560572.html" >2022年Q4中国主要智能手机厂商出货量市场份额（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560569.html" >2022年Q4中国主要智能手机厂商出货量及增长率（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560565.html" >2022年-2023年北美主要云服务提供商采购数量同比预测（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560562.html" >2021年-2022年全球主要教育科技市场风险投资额及同比（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560558.html" >2016年-2021年美国投资平均并购交易额及交易量（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560475.html" >《经济学人》：2023年全球庆祝情人节最贵城市排行榜 上海超纽约排第一-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560479.html" >《羊了个羊》官方：2022年小游戏《羊了个羊》营收破亿-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560529.html" >联发科：2022年下半年联发科员工分红缩水三成 总分红金额预计是去年上半年七成左右-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560532.html" >格芯财报：2022年Q4格芯营收 21.01 亿美元 同比增长 14%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560538.html" >TrendForce：2023年1月中国电动车市场增速放缓 锂电池材料均价月跌 12%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560542.html" >J.D. Power： 2022 年美国电动汽车车主充电失败率为 20%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560545.html" >IDC：2022年Q4中国平板电脑市场出货量约 866 万台 同比增长约 16.7%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560550.html" >网信办：2023 年 1 月全国受理网络违法和不良信息举报 1321.8 万件 同比下降 10.3%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559859.html" >中国汽车工业协会：2022年前十家轿车生产企业销售情况简析-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559759.html" >Omdia：预测SVoD在2023年将增加1.43亿用户-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559508.html" >中国汽车流通协会：2023年1月二手车市场简析-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559675.html" >中国汽车流通协会：2023年1月份中国二手车经理人指数为45.1%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559655.html" >中国汽车流通协会：2023年1月中国汽车保值率报告-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1558301.html" >全球“超级百岁老人”的长寿秘诀是什么？-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559753.html" >DSCC：MiniLED面板快速增长-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559762.html" >超393万人的全国性研究：常喝酒，不仅防痴呆，还能提高生活质量？但要控制这个量！-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559911.html" >中国充电联盟：2023年1月全国电动汽车充换电基础设施运行情况-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560133.html" >Sensor Tower：2023年1月中国手游发行商全球收入排行榜-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1558219.html" >日本的可再生能源领域正在扩大-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559517.html" >中国汽车流通协会：2023年1月汽车经销商库存系数为1.80-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559905.html" >中国人民银行：2023年1月社会融资规模存量统计数据-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559684.html" >乘联会：2023年1月新能源乘用车厂商批发销量快讯-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559869.html" >中国汽车工业协会：2022年12月海关进出口情况简析-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559996.html" >国家统计局：2023年1月份居民消费价格同比上涨2.1% 环比上涨0.8%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559104.html" >TrendForce：预估2023年晶圆代工产值同比减少4%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559599.html" >中国汽车流通协会：2022年全国汽车经销商生存状况调查-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559794.html" >中国汽车工业协会：2023年1月汽车工业产销情况-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559786.html" >Strategy Analytics：2022年全年平板电脑出货量为1.621亿部 同比下降12%-2023-02-15</a><br/>
-
-
-
-###  IT之家
-
-<a target=_blank rel=nofollow href="https://www.ithome.com/0/673/670.htm" >56 核心，多任务性能提升 120%！ 英特尔推出全新至强 W-3400/2400 工作站处理器-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/669.htm" >三星李在镕今年预计不会加入公司董事会-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/668.htm" >国产糖果的前世今生-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/667.htm" >中国电信天翼云：基于开源欧拉的自研操作系统 CTyunOS 已上线 5 万余套-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/666.htm" >小米 11 手机开始推送安卓 13 / MIUI 14 稳定版-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/665.htm" >威刚推出 4TB 版 PREMIUM M.2 NVMe SSD，可用于 PS5 主机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/664.htm" >挪威银行联盟希望欧盟迫使苹果开放 Apple Pay NFC 技术-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/663.htm" >中欧首次，SMILE 卫星赴欧空局圆满完成星箭联合试验-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/662.htm" >OPPO Find N2 Flip 折叠屏手机面向全球发布：搭载天玑 9000+，售价 999 欧元起-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/661.htm" >合作冒险游戏《白之旅》现已登陆 PC 和任天堂 Switch 平台，支持简体中文-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/660.htm" >中兴宣布参展 MWC 2023 大会：将发布“1+2+N”全场景智慧生态 2.0，包括 5G FWA 和终端系列新品-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/659.htm" >苹果获得折叠屏新专利，明年或率先试水 iPad-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/658.htm" >雷克萨斯 RZ 纯电中型 SUV 现已上市，36.99~45.99 万元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/657.htm" >全球首款液化天然气拖拉机发布：最大 270 马力零排放，燃料来自牲畜粪-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/656.htm" >2023 阿里巴巴数学竞赛将于 3 月启动报名-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/655.htm" >联想小新接入百度“文心一言”，在电脑桌面即可与 AI 对话-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/654.htm" >长城未势能源配套的“新长征 1 号”氢能重卡首批交付 20 辆：采用 110kW 燃料电池发动机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/653.htm" >快舟一号乙运载火箭二级发动机试车圆满成功-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/652.htm" >终于好拆啦！微软官方发布 Surface Pro 9 拆机视频，电池、主板等都可轻松更换-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/651.htm" >隆基发布全新一代碱性电解水制氢设备 ALK Hi1 系列产品：电耗最低 4.0kwh / Nm³-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/650.htm" >华为与 Hansol PNS 达成合作，后者将在韩国独家代理其企业产品-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/648.htm" >微软：面向企业用户的 OpenAI ChatGPT 即将在全球版 Azure 上线-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/647.htm" >一加 Nord Buds 2 现身 FCC 认证，耳机参数曝光-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/646.htm" >特斯拉最豪黑粉，超级碗砸 400 万炮轰 FSD：危害公众不该上路-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/644.htm" >《英雄联盟手游》4.0b 版本 2 月 17 日上线：新英雄泽丽、源计划系列新皮肤登场-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/643.htm" >死亡回归（Returnal）今晚正式发售：国区 379 元，最低要求 GTX 1060-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/642.htm" >“元宇宙第一股”Roblox 2022 年营收 22 亿美元，同比增长 16%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/641.htm" >Excel 中的「Ctrl + Q」功能详解-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/640.htm" >联想小新 2023 锐龙版笔记本将于明晚发布，最高搭载 R7 7735HS 处理器-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/639.htm" >披萨盒设计成这样是能让披萨更好吃吗-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/638.htm" >百度地图上线兰州全城红绿灯倒计时功能-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/637.htm" >腾讯 START 云游戏会员调整：新增 SVIP，3 月 21 日生效-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/636.htm" >宗申 BEV-J15 恒驰三轮摩托车发布：8000W 功率，配有智能触摸仪表盘，还有倒车影像-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/635.htm" >ChatGPT：PPT 设计师的最佳搭档，还是最大敌人-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/634.htm" >高通骁龙 X75 5G 基带芯片发布：全球首支持“5G Advanced-ready”，预计用于骁龙 8 Gen 3 手机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/633.htm" >原来育碧没忘，《XDefiant》将于 2 月 16 日开启跨平台测试-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/632.htm" >AMD 最新驱动导致 AYANEO 2 / GEEK 掌机可用显存降至 512MB，需刷入 BIOS 解决-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/631.htm" >以弹簧为基础理解机械波的能量-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/630.htm" >国服下线后，暴雪《炉石传说》低价区商品定价暴涨达 750%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/629.htm" >为获取政府补贴，特斯拉同意向竞争对手开放 7500 个超级充电站-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/628.htm" >《大富翁 11》现已支持 Steam Deck 游戏掌机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/627.htm" >realme GT3 240W 快充手机将于 2 月 28 日 MWC2023 期间发布-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/626.htm" >谷歌在美国部分城市推出 5Gbps 光纤服务：上下行对称，每月 125 美元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/624.htm" >DITA 新款旗舰 Perpetua C 耳机及 Celeste Kondo 纯银耳机线上市：售价 4 万元、2.1 万元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/623.htm" >149 元，联想小新固态 U 盘滑板限定版发布：A+C 双接口，128GB 容量，400MB/s 读速-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/622.htm" >LAVA Agni 2 5G 手机曝光：搭载天玑 1080 芯片，5000 万像素相机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/621.htm" >联想推出小新宠物智能一体机 A7 Pro，首发价 999 元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/620.htm" >联想小新 14/16 轻薄本 2023 酷睿版发布，首发价 4199 元起-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/619.htm" >虽然 ChatGPT 已近乎“颠覆”，但创造者依然坚称它不会成为人类的“就业杀手”-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/618.htm" >联想发布新款小新 Pro 27 一体机：13代酷睿 + 锐炫 A370M，2.5K 100Hz 屏-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/617.htm" >改款 Model 3 正在路上？消息称特斯拉中国工厂将进行进一步升级-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/613.htm" >联想小新 Air 14 2023 酷睿版发布：轻约 1.34kg，5499 元起-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/611.htm" >联想小新 Pro 14/16 2023 酷睿版发布：普及 32GB + 1TB 配置，可选 RTX 4050-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/616.htm" >Redmi K60 部分版本缺货，官方回应：正紧急调货-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/615.htm" >中国电信李峻：光网已覆盖 345 座城市，超 5 亿用户单元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/614.htm" >人类身体里的癌细胞，每一个都要被杀死吗-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/612.htm" >长安汽车：深蓝旗下第二款产品 S7 将在今年恰当时机推向市场-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/610.htm" >《妮姬：胜利女神》PC 版今日上线：三端数据互通，后续有望上架 Steam-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/609.htm" >湖北查处一起利用微信传播盗版春节档电影案：向两百多人分享《流浪地球 2》《满江红》等链接-2023-02-15</a><br/>
-
-
-
-###  HelloGitHub 月刊
-
-
-
-
-
-###  蠎周刊
-
-<a target=_blank rel=nofollow href="https://weekly.pychina.org/issue/issue-564.html" >PyCoder 564-2023-02-15</a><br/>
-
-
-
-###  WordPress大学
-
-
-
-
-
-###  Linux 中国◆开源社区
-
-<a target=_blank rel=nofollow href="https://linux.cn/article-15542-1.html?utm_source=rss&utm_medium=rss" >硬核观察 #913 马斯克的推文是如何刷屏的-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://linux.cn/article-15541-1.html?utm_source=rss&utm_medium=rss" >跟着我们的新指南学习开发 WebAssembly-2023-02-15</a><br/>
 
 
 
 ###  V2EX
 
-<a target=_blank rel=nofollow href="https://www.v2ex.com/t/916509#reply0" >[程序员] 心情不好，说出来解解闷-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916508#reply0" >[程序员] 码农最应该学但是极少数人研究的技术-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916507#reply1" >[程序员] 2023 年小主机有什么不错的具体型号推荐吗？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916506#reply0" >[Apple] Apple music 能通过链接跳转自动开始播放吗-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916505#reply0" >[问与答] BIP 怎么样-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916502#reply13" >[问与答] 曾经我以为分手没什么大不了，直到落在我身上，我才知道有多么痛！-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916501#reply13" >[问与答] 400kw 中波发射塔会影响 3km 左右的房屋和生活吗？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916500#reply8" >[Windows] 你觉得 Windows 上哪些功能/软件体验很差？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916499#reply0" >[Swift] 选择文件的回调函数 documentPicker 无法修改主界面的信息？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916498#reply0" >[输入法] 大佬们，请问 Mac 上有什么输入法能够同时输入普通引号、直角引号和方括号啊？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916496#reply0" >[程序员] 碰到天猫国际自营进口超市纠纷, 该如何处理-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916495#reply0" >[问与答] 2022 年本科毕业 跨考计算机研究生失败 能在数据挖掘方向找到合适的工作吗-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916494#reply0" >[iPhone] App 资源库分类错误-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916493#reply10" >[问与答] 我给你做项目，你却找我开发票？——独立开发者如何处理税务问题？（内地篇）-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916492#reply0" >[程序员] 我开发了浏览器扩展库桥接 Chatgpt api 到传统页面-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916491#reply0" >[酷工作] [深圳/高级网工/全职] 正在寻找超牛皮网络工程师 30K-50K-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916490#reply3" >[问与答] 咸鱼居然不能搜索卖家发布的商品。。-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916489#reply0" >[推广] 订阅 newsletter 获取 50 amazon gift-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916488#reply15" >[问与答] 孩子数学考了 85 分 哎 怎样才能提高孩子的数学水平啊-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916487#reply0" >[问与答] 电子书阅读器现在选择 kindle oasis3 还是 ireader ocean2-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916485#reply6" >[服务器] 网站里有 chatgpt 相关内容的赶紧删除，已接到整改通知-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916484#reply0" >[OpenAI] 是否有方法在内网代理 chatgpt 页面？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916483#reply4" >[问与答] 小学奥数概率题，答案不是 1/8 吗？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916482#reply2" >[Go 编程语言] 最简单的 Go 代码实现联通的 iptv 转换为 http 流 实现类似 udpxy 的功能-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916481#reply8" >[硬件] 21 年 7 月份买的三星 970 evo plus 前几天挂了， v 友推荐靠谱的固态硬盘吧？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916479#reply4" >[职场话题] 银行真的很难跳槽吗？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916478#reply2" >[问与答] 有体验好一点的的翻转笔记本推荐吗?-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916477#reply2" >[奇思妙想] 突然想到，是时候定义一些 AI 间通信的协议了-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916476#reply1" >[求职] 上海前端开发工程师在线求职-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916475#reply1" >[问与答] 各位技术大牛，问个问题，我想做个微信+抖音+网页都能玩的小游戏-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916474#reply0" >[编程] 老铁们，我打算翻译几篇规范-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916473#reply0" >[NAS] 请问能否挂载已有 NTFS 格式硬盘至 seafile-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916472#reply4" >[Apple] touchbar 漏液？一部分出现蓝色色斑了，怎么修复？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916471#reply3" >[问与答] AS SSD 下载地址？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916470#reply8" >[宽带症候群] IDC 所谓的针对 CN2 线路优化是什么意思？如何优化的？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916469#reply12" >[程序员] 上海哪家医院脱发原因诊断靠谱？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916468#reply1" >[Apple] Sony 电视不能自动切换到 Apple TV 输入源-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916467#reply17" >[程序员] 如何提高和异性聊天的能力?-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916466#reply10" >[Apple] 想问一下苹果上面有没有什么 app 可以设置多人提醒？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916465#reply8" >[iPhone] 苹果地图如何使用国内数据-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916464#reply14" >[程序员] 我想认真聊，寻找多位技术员一起创业，也是一次重新认识新朋友的机会-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916463#reply1" >[Vim] vim/nvim 中是否有能匹敌 pylance 的 Python LSP-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916461#reply4" >[职场话题] 成都真的是外包之都-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916460#reply0" >[Visual Studio Code] 一直觉得 JetBrains 家的 Reader Mode 很好用，写了个 VSCode 插件提供这个功能-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916459#reply7" >[分享发现] 亲历广东联通套路-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916458#reply13" >[MacBook Pro] M1 Max 64GB vs M2 Pro 32GB-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916457#reply0" >[酷工作] [好久不见的开 run 帖] [赴日工作移民] 对日外包开发招聘第九波！-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916456#reply4" >[问与答] 北京摇号-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916455#reply9" >[分享发现] 建行 app 提前还贷申请成功-2023-02-15</a><br/>
-
-
-
-
-
-###  博客园_首页
-
-<a target=_blank rel=nofollow href="https://www.cnblogs.com/armcvai/p/17125307.html" >神经网络基础部件-卷积层详解 - 嵌入式视觉-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/lyd-code/p/17125304.html" >【多线程与高并发】- 线程基础与状态 - 怒放吧德德-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/englyf/p/17125281.html" >Python 内置界面开发框架 Tkinter入门篇 丁 - ENG八戒-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/cmusketeer/p/17119938.html" >Android  JetPack~ DataBinding(数据绑定)(一)    集成与使用 - TMusketeer-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/catcher1994/p/17122324.html" >聊一聊HTTPS双向认证的简单应用 - Catcher8-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/xuruiming/p/17120974.html" >为K8S集群准备Ceph存储 - 岁月已走远-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/shanml/p/17125021.html" >【RocketMQ】DLedger选主源码分析 - shanml-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/uwu-Jasper/p/17124560.html" >深度优先搜索算法-dfs讲解 - To_string-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/mosaicMask/p/17124823.html" >【亲妈教学】配置Gzip压缩，含前后端步骤 - 捡破烂的小z-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/almira998/p/17124741.html" >Vue过滤案例、按键修饰符、数据双向绑定 - 阿丽米热-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/GreyWang/p/17124678.html" >VMware 虚拟机安装 OpenWrt 作旁路由 单臂路由 img 镜像转 vmdk 旁路由无法上网 没网络 - GreyWang-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/Java3y/p/17124601.html" >什么是push通知栏消息？ - Java3y-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/cocowool/p/17124403.html" >文件格式引起的脚本执行错误 - Cocowool-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/bzbz/p/17116894.html" >jmeter做性能测试 - 一个名-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/zaking/p/17120542.html" >真正“搞”懂HTTPS协议17之TLS握手 - Zaking-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/cdap/p/17123077.html" >(二) MdbCluster分布式内存数据库——分布式架构1 - smartguy-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/powertoolsteam/p/17123886.html" >前端报表如何实现无预览打印解决方案或静默打印 - 葡萄城技术团队-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/hejiale010426/p/17123263.html" >实现简单的`Blazor`低代码 - tokengo-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/wewant/p/17107500.html" >ASP.NET Core - 请求管道与中间件 - 啊晚-2023-02-15</a><br/>
-
-
-
-
-###  游研社
-
-<a target=_blank rel=nofollow href="https://www.yystv.cn/p/10466" >因为删减原版开发者名单，密特罗德复刻版引争议-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.taptap.cn/moment/374874389604205767/embed" >【消失的存档】把魔法做成Cod的哈利波特游戏是怎样的？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.yystv.cn/p/10467" >ROG枪神7 Plus超竞版：搭载英特尔13代HX处理器的全能电竞游戏本-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.yystv.cn/p/10465" >2022年中国游戏产业报告发布：去年是 “最寒冷的一年”-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.yystv.cn/p/10435" >IMAX标配的倒计时片头，背后有没有什么门道？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.yystv.cn/p/10464" >游研早报：宫崎英高的游戏又被打上了“可爱”标签 /《原子之心》搞怪宣传片“碰瓷”《霍格沃茨之遗》-2023-02-15</a><br/>
-
-
-
-
-###  书格（旧版）
-
-
+<a target=_blank rel=nofollow href="https://www.v2ex.com/t/916547#reply2" >[程序员] 写代码专注力随着年龄的增长呈下降趋势了，大家用的什么好方法？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916546#reply1" >[问与答] 好用的文件比对工具-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916545#reply0" >[分享创造] JB 插件更新啦 0.3.0 - Txtic-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916544#reply1" >[程序员] 体验 NB 之后我对国产 gpt 是没一点信心了-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916543#reply4" >[问与答] V 站未读消息没有提示，是降权吗-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916541#reply2" >[Android] 安卓，浏览器浏览“m.youtbue.com"-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916540#reply3" >[问与答] Mac 如何自动激活 iPhone 热点功能-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916539#reply4" >[分享发现] 观点比事实重要, 主观大于客观, 比烂大赛开始了-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916538#reply7" >[程序员] 个人开发的排名 200+ 的 iOS App 开源了!-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916536#reply7" >[程序员] 『郑州/长沙』 数字马力招聘前端开发，大量 HC-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916535#reply10" >[优惠信息] 有没有拼多多零食拼团群呀？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916534#reply17" >[程序员] 仇恨开源作者的开发者群体是什么心理？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916533#reply4" >[问与答] 寻找名侦探柯南的某一集-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916532#reply0" >[问与答] 这个网址安全吗？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916531#reply14" >[OpenAI] 使用了 copilot，本地写的代码出现在了 chatgpt 上-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916529#reply0" >[酷工作] 找稳定的远程工作-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916527#reply5" >[iCloud] icloud+ 2T 家庭共享开车 (先 50G 的车免费试运行一下, 欢迎参与一下实验)-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916526#reply2" >[Apple] IOS 因调后两个月时间导致短信不提醒，如何解决？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916525#reply1" >[OpenAI] 更新了一下之前做的一个 chatgpt 的镜像站-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916524#reply33" >[问与答] 已经放开这么久了，为什么地铁还是要戴口罩？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916523#reply0" >[全球工单系统] 飞书云文档智能表格甘特图怎么设置分组的排序？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916522#reply0" >[问与答] esim.me-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916521#reply0" >[macOS] 出 App Cleaner & Uninstall 7 8 授权-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916520#reply9" >[问与答] Freenom 疑似跑路-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916519#reply8" >[问与答] 请大家推荐个可以正常访问 ChatGPT 的节点或服务-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916518#reply5" >[YouTube] 有人要上车不，年付 45 的油管-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916517#reply2" >[macOS] 聚焦搜索有些 app 没有图标-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916516#reply43" >[Windows] Windows 上有哪些实用的小工具？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916512#reply5" >[问与答] 训练类 ChatGPT 模型时如何避免模型自己生成的样本？-2023-02-16</a><br/>
 
 
 
@@ -214,6 +30,1099 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+###  互联网数据资讯网-199IT
+
+
+
+
+
+###  36氪
+
+<a target=_blank rel=nofollow href="https://36kr.com/p/2132876572601346?f=rss" >研报淘金丨需求回暖预期强烈，机械板块的「好日子」要来了？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132869995506953?f=rss" >智氪丨曾起诉苹果、索赔百亿，小i机器人转战美股割「韭菜」？-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132886968560647?f=rss" >营销观察｜用一块39元的奖牌俘获00后，Keep做了门新生意-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132898668735494?f=rss" >36氪首发 |「星启宇航」完成数千万元融资，以星载相控阵天线赋能商业航天市场发展-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132890095545348?f=rss" >36氪首发 |「海格锐特」完成近亿元融资，以高性能制造装备服务复合集流体产业-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132630998756356?f=rss" >36氪首发｜坐骑科技获千万级天使轮融资，致力于打造封闭式窄体微型电动车-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132788527885314?f=rss" >36氪首发 | 预定餐平台「聚美味」完成百万级天使轮融资， 以“聚合送”切入商写白领外卖赛道-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132943763385602?f=rss" >欧盟制定重型车辆减排新目标；蔚来回应试驾致母子一死一伤：先等警方通报｜36氪新能源日报0215-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2133770606325000?f=rss" >8点1氪丨接近蔚来人士回应蔚来试驾致一死一伤；微信在广深测试小程序内外卖服务；苹果“先买后付”服务将评估借款人-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2131531988036610?f=rss" >36氪首发｜「跨境魔方」获数千万元天使轮融资，打造出海智能获客SaaS-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133883515251714?f=rss" >恒生科技指数涨幅扩大至3%-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133879555583240?f=rss" >国家发改委：加快规划建设新型能源体系，积极推动大型风电光伏基地和水电、核电建设-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133878752652289?f=rss" >国家发改委：支持住房改善、新能源汽车、养老服务、教育医疗文化体育服务等消费-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133873157238020?f=rss" >CPO概念股集体走低，通宇通讯跌超9%-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133872495979525?f=rss" >刘昆：要促进恢复和扩大消费-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133869469707521?f=rss" >“星启宇航”完成数千万元融资-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133868297317380?f=rss" >刘昆：根据实际情况进一步完善减税降费措施-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133865074093319?f=rss" >券商股异动拉升，南京证券涨超7%-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133861811580164?f=rss" >中药板块表现强势，康缘药业大涨7%-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133859027315718?f=rss" >ChatGPT概念股低开高走，宁夏建材4连板-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133854917438729?f=rss" >恒生科技指数涨超2%，汽车股领涨-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133850651175938?f=rss" >汽车整车板块开盘走强，宇通客车涨超7%-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133849873738757?f=rss" >“海格锐特”完成近亿元融资-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133849156562181?f=rss" >陈光明旗下睿远基金第二次上调大额申购上限-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133844534799619?f=rss" >游戏股早盘大幅冲高，凯撒文化直线涨停-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133842190085125?f=rss" >充电桩板块开盘走低，炬华科技跌超10%-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133838902603016?f=rss" >国家统计局：1月一线城市商品住宅销售价格环比转涨，二三线城市环比降势趋缓-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133835818920969?f=rss" >ChatGPT概念股多数低开，初灵信息竞价跌超8%-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133834727894280?f=rss" >医药商业股开盘领涨，益丰药房、健之佳涨超8%-2023-02-16</a><br/>
+
+
+
+###  Axu-TongXue
+
+
+
+
+
+###  caozsay
+
+
+
+
+
+###  让小产品的独立变现更简单 - ezindie.com
+
+
+
+
+
+###  guxiaobei365
+
+
+
+
+
+###  HelloGitHub 月刊
+
+
+
+
+
+###  IT之家
+
+<a target=_blank rel=nofollow href="https://www.ithome.com/0/673/716.htm" >酷比魔方公布 X Pad 安卓平板：搭载天玑 900，256GB 大存储-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/715.htm" >特斯拉自动驾驶硬件 4.0 实物拆解：增加雷达，提供更多摄像头-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/713.htm" >Win11 Build 25300 引入新快捷方式：可通过 Win + Ctrl + V 组合打开音量控件-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/712.htm" >消息称特斯拉上海部分产线停产到 2 月底，升级以生产改进版 Model 3-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/711.htm" >谷歌要求员工每天花 2-4 小时测试 Bard，公司 CEO：感谢员工的贡献-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/710.htm" >西数发布 22TB 和 44TB WD Book 桌面外置硬盘，售价最高达 1500 美元-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/709.htm" >吉利汽车中高端新能源系列正式定名“吉利银河”，全新产品 2 月 23 日全球首发-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/708.htm" >256G 版仅需 7479 元：iPhone 14 Pro 京东自营补贴继续-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/707.htm" >《潜行者 2：切尔诺贝利之心》Ultimate Edition 售价提高 40 美元-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/706.htm" >Meta CEO 扎克伯格裁员追求“效率”，但个人安保费却涨至 1400 万美元-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/705.htm" >索尼在美国推出草莓牛奶限量版电子宠物狗 aibo：配有全新舞蹈，售价 2899.99 美元-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/704.htm" >美股周三：三大股指全线上涨，台积电跌逾 5%，蔚来涨近 2%-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/703.htm" >联发科天玑 7200 处理器发布，采用第二代台积电 4 纳米工艺-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/702.htm" >德州仪器将在美国犹他州建造第二座晶圆厂-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/700.htm" >MarioGPT：可基于玩家输入的文本信息，自动生成《超级马里奥兄弟》游戏关卡-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/699.htm" >集度：高阶智驾已在北上广三城泛化，ROBO-01 今年下半年交付-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/698.htm" >福特汽车高管解释业务调整原因，称成本远高于竞争对手-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/697.htm" >芒格狂赞比亚迪：是其最喜欢的股票，在中国遥遥领先特斯拉-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/696.htm" >Counterpoint：苹果 iPhone 在春节前后 5 周时间里销量同比增加 6%-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/695.htm" >亚马逊降本新计划：将砍掉欧洲中间商，鼓励其转为第三方卖家-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/694.htm" >贾跃亭订机票回国？法拉第未来回应：假的，谣言-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/693.htm" >密码管理工具 1Password 发布 8.10.0 重磅更新，引入超过 100 项改进-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/692.htm" >降价起效，本季度特斯拉 Model Y 在美已售罄-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/691.htm" >AI 搜索之战被指反应迟缓，谷歌 CEO 称“迟到也能赢”是公司传统-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/690.htm" >Adobe 以 200 亿美元收购 Figma 受阻，欧盟委员会正评估本次收购案-2023-02-16</a><br/>
+
+
+
+###  Linux 中国◆开源社区
+
+<a target=_blank rel=nofollow href="https://linux.cn/article-15544-1.html?utm_source=rss&utm_medium=rss" >如何使用 journalctl 查看和分析 systemd 日志（附实例）-2023-02-16</a><br/>
+
+
+
+###  lxianshengmiao
+
+
+
+
+
+
+###  sspaime
+
+
+
+
+
+###  虚拟号
+
+
+
+
+
+###  不死鸟 - 分享为王官网
+
+
+
+
+
+###  书格（旧版）
+
+
+
+
+
+###  刘润
+
+
+
+
+
+###  博客园_首页
+
+<a target=_blank rel=nofollow href="https://www.cnblogs.com/east4ming/p/17125702.html" >IoT 边缘集群基于 Kubernetes Events 的告警通知实现 - 东风微鸣-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/jinjiangongzuoshi/p/17125519.html" >Python+chatGPT编程5分钟快速上手，强烈推荐！！！ - 狂师-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/densen2014/p/17125416.html" >Blazor 拖放上传文件转换格式并推送到浏览器下载 - AlexChow-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/xueweihan/p/17125389.html" >如何让程序更健壮「GitHub 热点速览」 - 削微寒-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/newbe36524/p/0x01D-I-don-t-want-to-pass-nameof-anymore.html" >我不想再传递 nameof 了 - Newbe36524-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/vipstone/p/17125369.html" >面试必问：JVM 如何确定死亡对象？ - Java中文社群-2023-02-16</a><br/>
+
+
+
+###  奇客Solidot–传递最新科技情报
+
+
+
+
+
+###  奔跑中的奶酪
+
+
+
+
+
+
+###  如有乐享
+
+
+
+
+
+###  小众软件
+
+
+
+
+
+###  少数派
+
+<a target=_blank rel=nofollow href="https://sspai.com/post/78346" >派早报：联想小新发布 2023 新品、高通推出骁龙 X75 芯片等-2023-02-16</a><br/>
+
+
+
+###  极客公园
+
+<a target=_blank rel=nofollow href="http://www.geekpark.net/news/314944" >独家丨李志飞将在大模型领域创业，做中国的 OpenAI-2023-02-16</a><br/><a target=_blank rel=nofollow href="http://www.geekpark.net/news/314931" >芒格：在中国比亚迪遥遥领先特斯拉；马斯克：年底交出 Twitter 大权；微信测试「门店快送」服务-2023-02-16</a><br/>
+
+
+
+###  游研社
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://iui.su/166/" >2023 年 2 月 每日分享-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://iui.su/3474/" >2023 年 每日图片-2023-02-15</a><br/>
+=======
+<a target=_blank rel=nofollow href="https://www.yystv.cn/p/10469" >游研早报：欧美PS+ 2月游戏目录新增13款免费游戏 /《英雄联盟》3款衍生作年内登陆主机、PC-2023-02-16</a><br/>
+
+>>>>>>> Stashed changes
+
+
+###  知乎每日精选
+
+
+<a target=_blank rel=nofollow href="https://xclient.info/s/things.html" >Things 3.17.3 一款优秀的GTD任务管理工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/lyn.html" >Lyn 2.2.4 轻量级看图软件-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/goodtask.html" >GoodTask 7.3.3 日历提醒工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/perfectly-clear-workbench.html" >Perfectly Clear WorkBench 4.3.0.2421 智能图片瑕疵处理工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/graphicconverter.html" >GraphicConverter 11.8.1.5766 图片编辑浏览工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/artstudio-pro.html" >Artstudio Pro 5.1 绘图和照片编辑-2023-02-15</a><br/>
+
+
+###  精品MAC应用分享
+
+<a target=_blank rel=nofollow href="https://xclient.info/s/udock.html" >uDock 3.4.1(34101) 轻量级Dock栏快速启动工具-2023-02-16</a><br/><a target=_blank rel=nofollow href="https://xclient.info/s/grandtotal.html" >GrandTotal 8.0.4.11 一款非常实用的发票设计工具-2023-02-16</a><br/>
+
+
+
+###  殁漂遥
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://www.mpyit.com/msedge.html" >Edge 110.0.1587.46 官方PC离线安装包-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/edgemod.html" >Edge 110.0.1587.46 免安装便携版 采用edge++-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/360se14.html" >360安全浏览器 14.1.1001.0 无广告便携 双核浏览器-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/heukmsactivator.html" >HEU KMS Activator 28.0.0 授权工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/startallback.html" >StartAllBack 3.6.1.4641 Windows11开始菜单-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/cql.html" >原版 CCleaner 6.09.10300 系统优化工具-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/fxpdfeditor12xx.html" >Foxit PDF Editor Pro 12.1.1.15289 精简免安装-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/qqlive.html" >腾讯视频 11.63.2019 视频媒体平台-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.mpyit.com/iqiyipc.html" >爱奇艺PC版 10.2.0.6681 高清正版视频-2023-02-15</a><br/>
+=======
+>>>>>>> Stashed changes
+
+
+
+
+###  虎嗅网
+
+
+
+
+
+###  蠎周刊
+
+<a target=_blank rel=nofollow href="https://www.appinn.com/winfr-gui/" >WinFR界面版 – 基于微软官方命令行工具 Windows File Recovery 的误删除文件恢复工具-2023-02-15</a><br/>
+
+
+
+###  阮一峰的网络日志
+
+
+
+
+
+###  Bankless
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://sspai.com/post/78230" >家用咖啡手册 01 |  咖啡种类这么多，到底有什么不同？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://sspai.com/post/78289" >正确认识、高效利用：如何成为 ChatGPT 的受益者？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://sspai.com/post/78334" >放过微信放过自己，跨设备传文件还有这些姿势-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://sspai.com/post/78133" >年度征文 | 把阅读作为方法：从选书到笔记的经验分享-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://sspai.com/post/78328" >派早报：三星 Galaxy S23 系列国行版发布、特斯拉京东官方旗舰店上线等-2023-02-15</a><br/>
+=======
+>>>>>>> Stashed changes
+
+
+
+
+###  Stories by b1995 on Medium
+
+
+
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://36kr.com/p/2133011695856645?f=rss" >Jasper for Business发布，仍使用OpenAI技术；Instagram宣布放弃直播购物|36氪企业服务日报0215-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132979201616898?f=rss" >销售易史彦泽：看好AI、大数据驱动、流程类的产品 | 展望2023-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132975413882117?f=rss" >九鼎投资李建立：看好To G数字化相关的产品和业务 | 展望2023-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132969474501639?f=rss" >氪星晚报 | 科大讯飞副总裁刘聪：经过两个月验证，有信心实现ChatGPT类似的技术阶跃进步；腾讯：广深地区小程序内测“门店快送”服务；特斯拉再招电动皮卡车生产线高管-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132678866529536?f=rss" >全年创收430亿美元，可口可乐公司新年展望看好中国市场-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132613012925446?f=rss" >求购Space X、Neuralink老股；转让持有Shein、某头部自动驾驶公司的基金份额｜资情留言板第81期-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132538260204547?f=rss" >最前线｜「马蜂窝」时隔近4年完成新一轮融资，但在线旅游格局已变-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2132474994797827?f=rss" >穿越合成生物学「死亡谷」，蓝晶微生物新获近10亿元资金加持｜36氪专访-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2131750092860673?f=rss" >最前线| 直播卖房起量，2022年快手卖房卖了100亿元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/p/2131103047396355?f=rss" >拼多多Temu广告首秀：花1亿人民币，让1亿美国用户看到｜营销观察-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133119650786566?f=rss" >工农中建等多家银行下发通知：加快处理积压申请，按照合同约定做好提前还款服务-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133117323406345?f=rss" >首台国产HA级重型燃机在秦皇岛下线-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133115747970054?f=rss" >国家版权局：2021年中国版权产业增加值占到GDP的7.41%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133114597666057?f=rss" >我国首个跨地级市核能供热长输管网工程正式开工-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133114275753219?f=rss" >OpenAI CEO安抚外界担忧：ChatGPT不是人类的“就业杀手-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133112345226245?f=rss" >《羊了个羊》营收破亿，主创团队已内测女性向新游戏-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133111628164101?f=rss" >山西首批15家虚拟电厂建设完成-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133106802830338?f=rss" >日本伊藤忠将向亚马逊和Meta提供可再生能源-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133104729877509?f=rss" >国产特斯拉Model 3和Model Y已开始在泰国交付-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133102074604801?f=rss" >国家外汇管理局：1月份境外投资者对境内股票投资创单月历史新高-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133098312444928?f=rss" >极光闪达宣布将在邮件服务中整合ChatGPT技术-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133097574460421?f=rss" >热门中概股美股盘前涨跌不一，百度涨超2%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133092102319108?f=rss" >美股大型科技股盘前多数下跌，特斯拉涨超2%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133080940358665?f=rss" >埃克森美孚中国新研发中心在广东惠州动工-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133077575281927?f=rss" >华尔街监管机构将采取针对与游戏驿站事件类似的风险的规则-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133076207873032?f=rss" >蔚来已申请注册NIOPHONE商标-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133074378501380?f=rss" >三星：可能为智能手机开发AI新技术，微软、谷歌、亚马逊和Meta是潜在商业伙伴-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133073676692480?f=rss" >德州仪器拟扩大日本福岛工厂氮化镓晶圆产能-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://36kr.com/newsflashes/2133073033063431?f=rss" >四部门：中小学校、幼儿园原则上校内不设小卖部与超市-2023-02-15</a><br/>
+=======
+>>>>>>> Stashed changes
+
+###  Stories by Arthur Hayes on Medium
+
+
+
+
+
+###  Stories by 鉴叔 on Medium
+
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://simonwillison.net/2023/Feb/15/bing/" >Bing: “I will not harm you unless you harm me first”-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://mitpress.mit.edu/9780262546379/the-little-learner/" >The Little Learner: A Straight Line to Deep Learning-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://erich-friedman.github.io/packing/squinsqu/" >Squares in Squares-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://brr.fyi/posts/last-flight-out" >Last Flight Out-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://bigthink.com/thinking/is-speech-violence/" >Speech is violence? Not if we want a liberal, intellectual society-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.nature.com/articles/d41586-023-00383-9" >Sea life bounced back fast after the ‘mother of mass extinctions’-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://wccftech.com/amd-grabs-over-30-percent-market-share-with-epyc-cpus-intel-continues-to-decline/" >AMD Grabs over 30% CPU Market Share as Intel Continues to Decline-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnbc.com/2023/02/15/sam-bankman-frieds-two-bond-guarantors-revealed-after-unsealing-.html" >FTX founder Sam Bankman-Fried’s two bond guarantors unsealed, ties to Stanford-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://adam.chlipala.net/mlcomp/" >Comparing Objective Caml and Standard ML-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://usrtk.org/risky-research/intrepid-virus-hunter-peter-daszak-flies-in-style/" >Daszak and EcoHealth drew attention for luxury flights-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://blogit.michelin.io/an-introduction-to-datalog/" >Introduction to Datalog-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.njohnston.ca/publications/conways-game-of-life-mathematics-and-construction/" >Conway’s Game of Life: Mathematics and Construction-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://mainichi.jp/english/articles/20230214/p2g/00m/0bu/043000c" >Shoichiro Toyoda, who turned Toyota into global automaker, has died-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://equals.app/dashboards/" >Show HN: Build auto-updating dashboards in a spreadsheet-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://dl.acm.org/doi/10.1145/1013881.802685" >What if mass storage were free? (1980)-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.rerun.io/blog/oss-beta" >Rerun OSS beta is released-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://9to5mac.com/2023/02/15/apple-headset-release-date-delayed/" >Apple delays its mixed reality headset by two months, to debut at WWDC this June-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://blogit.michelin.io/clojure-programming/" >Clojure in the Tyre Manufacturing Industry-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://github.com/swarmlet/swarmlet" >Swarmlet: A self-hosted, open-source Platform as a Service-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://ia801508.us.archive.org/25/items/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.66.0.pdf" >SBF Caught Using VPN While Awaiting Criminal Trial [pdf]-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://lab.quantumflytrap.com/" >Virtual Optical Table for Quantum Visualization-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss" >Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://github.com/keephq/keep" >Show HN: Keep – Open-source alerting CLI-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/" >From Bing to Sydney-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.quadibloc.com/other/bo0201.htm" >Making Full Use of Three Ordinary Dice-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy" >Intel Publishes Fast AVX-512 Sorting Library, 10~17x Faster Sorts in NumPy-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.7.0.html" >What&#x27;s new in Matplotlib 3.7-2023-02-15</a><br/>
+=======
+>>>>>>> Stashed changes
+
+
+
+###  biknow — Mirror
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74146" >气候变化扩大蚊子活动范围-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74145" >Rust 如何从业余项目变成世界最热门的语言之一-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74144" >Thunderbird 预览新 UI-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74143" >ChatGPT 能做什么，为什么它做到了-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74142" >微软释出更新从 Windows 10 PC 上永久移除 IE-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74141" >指纹是如何形成的-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74140" >马斯克如何大幅提高其推文的曝光度-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74139" >美国空军成功测试 AI 控制的战斗机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74138" >现代和起亚被迫更新软件以应对 TikTok 病毒式传播的“起亚挑战”视频-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74137" >GitHub Copilot 推出企业版-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.solidot.org/story?sid=74136" >Firefox 110 释出-2023-02-15</a><br/>
+=======
+>>>>>>> Stashed changes
+
+
+
+
+###  Foresight News — Mirror
+
+
+
+
+
+###  Libby08 — Mirror
+
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="http://www.199it.com/archives/1553646.html" >MARCO Research：2022年后疫情时代消费者行为调查报告-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1518710.html" >复旦DMG：2022年卫生健康公共数据开放报告-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560484.html" >毕马威：2023年一季度中国经济观察-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560402.html" >SRG：2022年Q4全球云基础设施服务支出超过610亿美元-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560207.html" >36氪研究院：2023年中国自动驾驶行业研究报告（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1543021.html" >年轻人的酒：中国酒类品类创新研究报告（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1544362.html" >黑马工厂：2022年坚果行业洞察（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1533628.html" >贝壳研究院：2022家装设计师职业发展白皮书（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1558601.html" >​腾讯研究院：2023年AIGC发展趋势报告（附下载）-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560578.html" >2022年全球主要智能手机厂商出货量市场份额（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560575.html" >2022年全球主要智能手机厂商出货量及增长率（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560572.html" >2022年Q4中国主要智能手机厂商出货量市场份额（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560569.html" >2022年Q4中国主要智能手机厂商出货量及增长率（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560565.html" >2022年-2023年北美主要云服务提供商采购数量同比预测（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560562.html" >2021年-2022年全球主要教育科技市场风险投资额及同比（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560558.html" >2016年-2021年美国投资平均并购交易额及交易量（附原数据表） ​​​​-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560475.html" >《经济学人》：2023年全球庆祝情人节最贵城市排行榜 上海超纽约排第一-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560479.html" >《羊了个羊》官方：2022年小游戏《羊了个羊》营收破亿-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560529.html" >联发科：2022年下半年联发科员工分红缩水三成 总分红金额预计是去年上半年七成左右-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560532.html" >格芯财报：2022年Q4格芯营收 21.01 亿美元 同比增长 14%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560538.html" >TrendForce：2023年1月中国电动车市场增速放缓 锂电池材料均价月跌 12%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560542.html" >J.D. Power： 2022 年美国电动汽车车主充电失败率为 20%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560545.html" >IDC：2022年Q4中国平板电脑市场出货量约 866 万台 同比增长约 16.7%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560550.html" >网信办：2023 年 1 月全国受理网络违法和不良信息举报 1321.8 万件 同比下降 10.3%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559859.html" >中国汽车工业协会：2022年前十家轿车生产企业销售情况简析-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559759.html" >Omdia：预测SVoD在2023年将增加1.43亿用户-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559508.html" >中国汽车流通协会：2023年1月二手车市场简析-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559675.html" >中国汽车流通协会：2023年1月份中国二手车经理人指数为45.1%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559655.html" >中国汽车流通协会：2023年1月中国汽车保值率报告-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1558301.html" >全球“超级百岁老人”的长寿秘诀是什么？-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559753.html" >DSCC：MiniLED面板快速增长-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559762.html" >超393万人的全国性研究：常喝酒，不仅防痴呆，还能提高生活质量？但要控制这个量！-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559911.html" >中国充电联盟：2023年1月全国电动汽车充换电基础设施运行情况-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1560133.html" >Sensor Tower：2023年1月中国手游发行商全球收入排行榜-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1558219.html" >日本的可再生能源领域正在扩大-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559517.html" >中国汽车流通协会：2023年1月汽车经销商库存系数为1.80-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559905.html" >中国人民银行：2023年1月社会融资规模存量统计数据-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559684.html" >乘联会：2023年1月新能源乘用车厂商批发销量快讯-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559869.html" >中国汽车工业协会：2022年12月海关进出口情况简析-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559996.html" >国家统计局：2023年1月份居民消费价格同比上涨2.1% 环比上涨0.8%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559104.html" >TrendForce：预估2023年晶圆代工产值同比减少4%-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559599.html" >中国汽车流通协会：2022年全国汽车经销商生存状况调查-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559794.html" >中国汽车工业协会：2023年1月汽车工业产销情况-2023-02-15</a><br/><a target=_blank rel=nofollow href="http://www.199it.com/archives/1559786.html" >Strategy Analytics：2022年全年平板电脑出货量为1.621亿部 同比下降12%-2023-02-15</a><br/>
+=======
+>>>>>>> Stashed changes
+
+
+
+###  Metascan.Pro | Twitterscan — Mirror
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://www.ithome.com/0/673/670.htm" >56 核心，多任务性能提升 120%！ 英特尔推出全新至强 W-3400/2400 工作站处理器-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/669.htm" >三星李在镕今年预计不会加入公司董事会-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/668.htm" >国产糖果的前世今生-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/667.htm" >中国电信天翼云：基于开源欧拉的自研操作系统 CTyunOS 已上线 5 万余套-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/666.htm" >小米 11 手机开始推送安卓 13 / MIUI 14 稳定版-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/665.htm" >威刚推出 4TB 版 PREMIUM M.2 NVMe SSD，可用于 PS5 主机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/664.htm" >挪威银行联盟希望欧盟迫使苹果开放 Apple Pay NFC 技术-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/663.htm" >中欧首次，SMILE 卫星赴欧空局圆满完成星箭联合试验-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/662.htm" >OPPO Find N2 Flip 折叠屏手机面向全球发布：搭载天玑 9000+，售价 999 欧元起-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/661.htm" >合作冒险游戏《白之旅》现已登陆 PC 和任天堂 Switch 平台，支持简体中文-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/660.htm" >中兴宣布参展 MWC 2023 大会：将发布“1+2+N”全场景智慧生态 2.0，包括 5G FWA 和终端系列新品-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/659.htm" >苹果获得折叠屏新专利，明年或率先试水 iPad-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/658.htm" >雷克萨斯 RZ 纯电中型 SUV 现已上市，36.99~45.99 万元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/657.htm" >全球首款液化天然气拖拉机发布：最大 270 马力零排放，燃料来自牲畜粪-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/656.htm" >2023 阿里巴巴数学竞赛将于 3 月启动报名-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/655.htm" >联想小新接入百度“文心一言”，在电脑桌面即可与 AI 对话-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/654.htm" >长城未势能源配套的“新长征 1 号”氢能重卡首批交付 20 辆：采用 110kW 燃料电池发动机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/653.htm" >快舟一号乙运载火箭二级发动机试车圆满成功-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/652.htm" >终于好拆啦！微软官方发布 Surface Pro 9 拆机视频，电池、主板等都可轻松更换-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/651.htm" >隆基发布全新一代碱性电解水制氢设备 ALK Hi1 系列产品：电耗最低 4.0kwh / Nm³-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/650.htm" >华为与 Hansol PNS 达成合作，后者将在韩国独家代理其企业产品-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/648.htm" >微软：面向企业用户的 OpenAI ChatGPT 即将在全球版 Azure 上线-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/647.htm" >一加 Nord Buds 2 现身 FCC 认证，耳机参数曝光-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/646.htm" >特斯拉最豪黑粉，超级碗砸 400 万炮轰 FSD：危害公众不该上路-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/644.htm" >《英雄联盟手游》4.0b 版本 2 月 17 日上线：新英雄泽丽、源计划系列新皮肤登场-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/643.htm" >死亡回归（Returnal）今晚正式发售：国区 379 元，最低要求 GTX 1060-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/642.htm" >“元宇宙第一股”Roblox 2022 年营收 22 亿美元，同比增长 16%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/641.htm" >Excel 中的「Ctrl + Q」功能详解-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/640.htm" >联想小新 2023 锐龙版笔记本将于明晚发布，最高搭载 R7 7735HS 处理器-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/639.htm" >披萨盒设计成这样是能让披萨更好吃吗-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/638.htm" >百度地图上线兰州全城红绿灯倒计时功能-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/637.htm" >腾讯 START 云游戏会员调整：新增 SVIP，3 月 21 日生效-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/636.htm" >宗申 BEV-J15 恒驰三轮摩托车发布：8000W 功率，配有智能触摸仪表盘，还有倒车影像-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/635.htm" >ChatGPT：PPT 设计师的最佳搭档，还是最大敌人-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/634.htm" >高通骁龙 X75 5G 基带芯片发布：全球首支持“5G Advanced-ready”，预计用于骁龙 8 Gen 3 手机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/633.htm" >原来育碧没忘，《XDefiant》将于 2 月 16 日开启跨平台测试-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/632.htm" >AMD 最新驱动导致 AYANEO 2 / GEEK 掌机可用显存降至 512MB，需刷入 BIOS 解决-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/631.htm" >以弹簧为基础理解机械波的能量-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/630.htm" >国服下线后，暴雪《炉石传说》低价区商品定价暴涨达 750%-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/629.htm" >为获取政府补贴，特斯拉同意向竞争对手开放 7500 个超级充电站-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/628.htm" >《大富翁 11》现已支持 Steam Deck 游戏掌机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/627.htm" >realme GT3 240W 快充手机将于 2 月 28 日 MWC2023 期间发布-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/626.htm" >谷歌在美国部分城市推出 5Gbps 光纤服务：上下行对称，每月 125 美元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/624.htm" >DITA 新款旗舰 Perpetua C 耳机及 Celeste Kondo 纯银耳机线上市：售价 4 万元、2.1 万元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/623.htm" >149 元，联想小新固态 U 盘滑板限定版发布：A+C 双接口，128GB 容量，400MB/s 读速-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/622.htm" >LAVA Agni 2 5G 手机曝光：搭载天玑 1080 芯片，5000 万像素相机-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/621.htm" >联想推出小新宠物智能一体机 A7 Pro，首发价 999 元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/620.htm" >联想小新 14/16 轻薄本 2023 酷睿版发布，首发价 4199 元起-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/619.htm" >虽然 ChatGPT 已近乎“颠覆”，但创造者依然坚称它不会成为人类的“就业杀手”-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/618.htm" >联想发布新款小新 Pro 27 一体机：13代酷睿 + 锐炫 A370M，2.5K 100Hz 屏-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/617.htm" >改款 Model 3 正在路上？消息称特斯拉中国工厂将进行进一步升级-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/613.htm" >联想小新 Air 14 2023 酷睿版发布：轻约 1.34kg，5499 元起-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/611.htm" >联想小新 Pro 14/16 2023 酷睿版发布：普及 32GB + 1TB 配置，可选 RTX 4050-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/616.htm" >Redmi K60 部分版本缺货，官方回应：正紧急调货-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/615.htm" >中国电信李峻：光网已覆盖 345 座城市，超 5 亿用户单元-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/614.htm" >人类身体里的癌细胞，每一个都要被杀死吗-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/612.htm" >长安汽车：深蓝旗下第二款产品 S7 将在今年恰当时机推向市场-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/610.htm" >《妮姬：胜利女神》PC 版今日上线：三端数据互通，后续有望上架 Steam-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.ithome.com/0/673/609.htm" >湖北查处一起利用微信传播盗版春节档电影案：向两百多人分享《流浪地球 2》《满江红》等链接-2023-02-15</a><br/>
+=======
+>>>>>>> Stashed changes
+
+
+
+
+###  Shawn — Mirror
+
+
+
+
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://weekly.pychina.org/issue/issue-564.html" >PyCoder 564-2023-02-15</a><br/>
+=======
+###  Shawn — Mirror
+
+>>>>>>> Stashed changes
+
+
+
+
+###  VitaminWong — Mirror
+
+
+
+
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://linux.cn/article-15542-1.html?utm_source=rss&utm_medium=rss" >硬核观察 #913 马斯克的推文是如何刷屏的-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://linux.cn/article-15541-1.html?utm_source=rss&utm_medium=rss" >跟着我们的新指南学习开发 WebAssembly-2023-02-15</a><br/>
+=======
+###  W3.Hitchhiker — Mirror
+
+>>>>>>> Stashed changes
+
+
+
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://www.v2ex.com/t/916509#reply0" >[程序员] 心情不好，说出来解解闷-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916508#reply0" >[程序员] 码农最应该学但是极少数人研究的技术-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916507#reply1" >[程序员] 2023 年小主机有什么不错的具体型号推荐吗？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916506#reply0" >[Apple] Apple music 能通过链接跳转自动开始播放吗-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916505#reply0" >[问与答] BIP 怎么样-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916502#reply13" >[问与答] 曾经我以为分手没什么大不了，直到落在我身上，我才知道有多么痛！-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916501#reply13" >[问与答] 400kw 中波发射塔会影响 3km 左右的房屋和生活吗？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916500#reply8" >[Windows] 你觉得 Windows 上哪些功能/软件体验很差？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916499#reply0" >[Swift] 选择文件的回调函数 documentPicker 无法修改主界面的信息？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916498#reply0" >[输入法] 大佬们，请问 Mac 上有什么输入法能够同时输入普通引号、直角引号和方括号啊？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916496#reply0" >[程序员] 碰到天猫国际自营进口超市纠纷, 该如何处理-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916495#reply0" >[问与答] 2022 年本科毕业 跨考计算机研究生失败 能在数据挖掘方向找到合适的工作吗-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916494#reply0" >[iPhone] App 资源库分类错误-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916493#reply10" >[问与答] 我给你做项目，你却找我开发票？——独立开发者如何处理税务问题？（内地篇）-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916492#reply0" >[程序员] 我开发了浏览器扩展库桥接 Chatgpt api 到传统页面-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916491#reply0" >[酷工作] [深圳/高级网工/全职] 正在寻找超牛皮网络工程师 30K-50K-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916490#reply3" >[问与答] 咸鱼居然不能搜索卖家发布的商品。。-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916489#reply0" >[推广] 订阅 newsletter 获取 50 amazon gift-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916488#reply15" >[问与答] 孩子数学考了 85 分 哎 怎样才能提高孩子的数学水平啊-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916487#reply0" >[问与答] 电子书阅读器现在选择 kindle oasis3 还是 ireader ocean2-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916485#reply6" >[服务器] 网站里有 chatgpt 相关内容的赶紧删除，已接到整改通知-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916484#reply0" >[OpenAI] 是否有方法在内网代理 chatgpt 页面？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916483#reply4" >[问与答] 小学奥数概率题，答案不是 1/8 吗？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916482#reply2" >[Go 编程语言] 最简单的 Go 代码实现联通的 iptv 转换为 http 流 实现类似 udpxy 的功能-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916481#reply8" >[硬件] 21 年 7 月份买的三星 970 evo plus 前几天挂了， v 友推荐靠谱的固态硬盘吧？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916479#reply4" >[职场话题] 银行真的很难跳槽吗？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916478#reply2" >[问与答] 有体验好一点的的翻转笔记本推荐吗?-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916477#reply2" >[奇思妙想] 突然想到，是时候定义一些 AI 间通信的协议了-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916476#reply1" >[求职] 上海前端开发工程师在线求职-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916475#reply1" >[问与答] 各位技术大牛，问个问题，我想做个微信+抖音+网页都能玩的小游戏-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916474#reply0" >[编程] 老铁们，我打算翻译几篇规范-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916473#reply0" >[NAS] 请问能否挂载已有 NTFS 格式硬盘至 seafile-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916472#reply4" >[Apple] touchbar 漏液？一部分出现蓝色色斑了，怎么修复？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916471#reply3" >[问与答] AS SSD 下载地址？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916470#reply8" >[宽带症候群] IDC 所谓的针对 CN2 线路优化是什么意思？如何优化的？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916469#reply12" >[程序员] 上海哪家医院脱发原因诊断靠谱？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916468#reply1" >[Apple] Sony 电视不能自动切换到 Apple TV 输入源-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916467#reply17" >[程序员] 如何提高和异性聊天的能力?-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916466#reply10" >[Apple] 想问一下苹果上面有没有什么 app 可以设置多人提醒？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916465#reply8" >[iPhone] 苹果地图如何使用国内数据-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916464#reply14" >[程序员] 我想认真聊，寻找多位技术员一起创业，也是一次重新认识新朋友的机会-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916463#reply1" >[Vim] vim/nvim 中是否有能匹敌 pylance 的 Python LSP-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916461#reply4" >[职场话题] 成都真的是外包之都-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916460#reply0" >[Visual Studio Code] 一直觉得 JetBrains 家的 Reader Mode 很好用，写了个 VSCode 插件提供这个功能-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916459#reply7" >[分享发现] 亲历广东联通套路-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916458#reply13" >[MacBook Pro] M1 Max 64GB vs M2 Pro 32GB-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916457#reply0" >[酷工作] [好久不见的开 run 帖] [赴日工作移民] 对日外包开发招聘第九波！-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916456#reply4" >[问与答] 北京摇号-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.v2ex.com/t/916455#reply9" >[分享发现] 建行 app 提前还贷申请成功-2023-02-15</a><br/>
+=======
+###  XuPeiPei — Mirror
+>>>>>>> Stashed changes
+
+
+
+
+
+###  zlexdl.eth — Mirror
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://www.cnblogs.com/armcvai/p/17125307.html" >神经网络基础部件-卷积层详解 - 嵌入式视觉-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/lyd-code/p/17125304.html" >【多线程与高并发】- 线程基础与状态 - 怒放吧德德-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/englyf/p/17125281.html" >Python 内置界面开发框架 Tkinter入门篇 丁 - ENG八戒-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/cmusketeer/p/17119938.html" >Android  JetPack~ DataBinding(数据绑定)(一)    集成与使用 - TMusketeer-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/catcher1994/p/17122324.html" >聊一聊HTTPS双向认证的简单应用 - Catcher8-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/xuruiming/p/17120974.html" >为K8S集群准备Ceph存储 - 岁月已走远-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/shanml/p/17125021.html" >【RocketMQ】DLedger选主源码分析 - shanml-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/uwu-Jasper/p/17124560.html" >深度优先搜索算法-dfs讲解 - To_string-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/mosaicMask/p/17124823.html" >【亲妈教学】配置Gzip压缩，含前后端步骤 - 捡破烂的小z-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/almira998/p/17124741.html" >Vue过滤案例、按键修饰符、数据双向绑定 - 阿丽米热-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/GreyWang/p/17124678.html" >VMware 虚拟机安装 OpenWrt 作旁路由 单臂路由 img 镜像转 vmdk 旁路由无法上网 没网络 - GreyWang-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/Java3y/p/17124601.html" >什么是push通知栏消息？ - Java3y-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/cocowool/p/17124403.html" >文件格式引起的脚本执行错误 - Cocowool-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/bzbz/p/17116894.html" >jmeter做性能测试 - 一个名-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/zaking/p/17120542.html" >真正“搞”懂HTTPS协议17之TLS握手 - Zaking-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/cdap/p/17123077.html" >(二) MdbCluster分布式内存数据库——分布式架构1 - smartguy-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/powertoolsteam/p/17123886.html" >前端报表如何实现无预览打印解决方案或静默打印 - 葡萄城技术团队-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/hejiale010426/p/17123263.html" >实现简单的`Blazor`低代码 - tokengo-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.cnblogs.com/wewant/p/17107500.html" >ASP.NET Core - 请求管道与中间件 - 啊晚-2023-02-15</a><br/>
+=======
+>>>>>>> Stashed changes
+
+
+
+
+###  冰糖橙收割机 — Mirror
+
+<<<<<<< Updated upstream
+<a target=_blank rel=nofollow href="https://www.yystv.cn/p/10466" >因为删减原版开发者名单，密特罗德复刻版引争议-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.taptap.cn/moment/374874389604205767/embed" >【消失的存档】把魔法做成Cod的哈利波特游戏是怎样的？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.yystv.cn/p/10467" >ROG枪神7 Plus超竞版：搭载英特尔13代HX处理器的全能电竞游戏本-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.yystv.cn/p/10465" >2022年中国游戏产业报告发布：去年是 “最寒冷的一年”-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.yystv.cn/p/10435" >IMAX标配的倒计时片头，背后有没有什么门道？-2023-02-15</a><br/><a target=_blank rel=nofollow href="https://www.yystv.cn/p/10464" >游研早报：宫崎英高的游戏又被打上了“可爱”标签 /《原子之心》搞怪宣传片“碰瓷”《霍格沃茨之遗》-2023-02-15</a><br/>
+=======
+>>>>>>> Stashed changes
+
+
+
+
+###  币圈慈善家 — Mirror
+
+
+
+
+
+###  币萌 TokenMore — Mirror
+
+
+
+
+
+###  深潮TechFlow — Mirror
+
+
+
+
+
+
+###  Stories by DefiCalendar on Medium
+
+
+
+
+
+###  Stories by melody on Medium
+
+
+
+
+
+###  Stories by melody on Medium
+
+
+
+
+
+
+###  Walletguru.eth — Mirror
+
+
+
+
+
+###  0x1559 — Mirror
+
+
+
+
+
+###  0xChrispp — Mirror
+
+
+
+
+
+
+###  aibobaby.eth — Mirror
+
+
+
+
+
+###  AirDrop Master — Mirror
+
+
+
+
+
+###  AirDrop Trending — Mirror
+
+
+
+
+
+###  akashanhu — Mirror
+
+
+
+
+
+###  元宇宙阿Q — Mirror
+
+
+
+
+
+###  ATOM — Mirror
+
+
+
+
+
+###  BayesYY — Mirror
+
+
+
+
+
+###  bbhy007 — Mirror
+
+
+
+
+
+###  Bitcoin007 — Mirror
+
+
+
+
+
+###  blockchain — Mirror
+
+
+
+
+
+###  blockjoys — Mirror
+
+
+
+
+
+
+###  candy chen — Mirror
+
+
+
+
+
+###  Charles Pual — Mirror
+
+
+
+
+
+###  Cyberviking — Mirror
+
+
+
+
+
+###  Dedsec — Mirror
+
+
+
+
+
+
+###  Duckweed — Mirror
+
+
+
+
+
+###  Ericet — Mirror
+
+
+
+
+
+###  maybe10 — Mirror
+
+
+
+
+
+###  FlyPotato — Mirror
+
+
+
+
+
+###  baikaishui — Mirror
+
+
+
+
+
+###  Giantbin ⚛ — Mirror
+
+
+
+
+
+###  Guwo — Mirror
+
+
+
+
+
+###  hello — Mirror
+
+
+
+
+
+###  holdbtctilldie — Mirror
+
+
+
+
+
+###  hutu1 — Mirror
+
+
+
+
+
+###  Iamxmm — Mirror
+
+
+
+
+
+###  ICDAO — Mirror
+
+
+
+
+
+###  IMIRXYZ — Mirror
+
+
+
+
+
+###  iSeven — Mirror
+
+
+
+
+
+###  Jack_An — Mirror
+
+
+
+
+
+###  Micle — Mirror
+
+
+
+
+
+###  jackfive — Mirror
+
+
+
+
+
+###  Jacklee — Mirror
+
+
+
+
+
+###  Jerry — Mirror
+
+
+
+
+
+###  jhj567 — Mirror
+
+
+
+
+
+###  keade.eth — Mirror
+
+
+
+
+
+###  加密财富 — Mirror
+
+
+
+
+
+###  ZHFUND — Mirror
+
+
+
+
+
+###  kingson — Mirror
+
+
+
+
+
+###  littleflyingpiggy — Mirror
+
+
+
+
+
+###  Luckstar — Mirror
+
+
+
+
+
+###  lzw.eth — Mirror
+
+
+
+
+
+###  maik2hello.eth — Mirror
+
+
+
+
+
+###  MavenTalk — Mirror
+
+
+
+
+
+###  MaxPeng666 — Mirror
+
+
+
+
+
+###  mergod — Mirror
+
+
+
+
+
+###  @MetaMGamesGuild — Mirror
+
+
+
+
+
+###  Monkey — Mirror
+
+
+
+
+
+###  new_coin88 — Mirror
+
+
+
+
+
+###  Nicholas — Mirror
+
+
+
+
+
+###  null — Mirror
+
+
+
+
+
+###  AnspachHalbert — Mirror
+
+
+
+
+
+###  null — Mirror
+
+
+
+
+
+###  wepoap — Mirror
+
+
+
+
+
+###  0xTmax — Mirror
+
+
+
+
+
+###  0x4ever.eth — Mirror
+
+
+
+
+
+###  REINetwork fans — Mirror
+
+
+
+
+
+###  sanmazi — Mirror
+
+
+
+
+
+###  sdwhvip — Mirror
+
+
+
+
+
+###  Seer Labs — Mirror
+
+
+
+
+
+###  sillyone — Mirror
+
+
+
+
+
+###  sissi — Mirror
+
+
+
+
+
+###  ssunnyzy — Mirror
+
+
+
+
+
+###  StormG — Mirror
+
+
+
+
+
+###  Mysterymen — Mirror
+
+
+
+
+
+###  Superogers — Mirror
+
+
+
+
+
+###  syskey — Mirror
+
+
+
+
+
+###  taomo221526 — Mirror
+
+
+
+
+
+###  terrycao — Mirror
+
+
+
+
+
+###  CRYang — Mirror
+
+
+
+
+
+###  DanielHill — Mirror
+
+
+
+
+
+###  Wuque — Mirror
+
+
+
+
+
+###  wusimpl — Mirror
+
+
+
+
+
+###  yewlne — Mirror
+
+
+
+
+
+###  yong — Mirror
+
+
+
+
+
+###  Yorin — Mirror
+
+
+
+
+
+###  Your Airdrop — Mirror
+
+
+
+
+
+###  yyy — Mirror
+
+
+
+
+
+###  zephyr — Mirror
+
+
+
+
+
+###  追风Lab — Mirror
+
+
+
+
+
+###  非凡₂₈₀₀₂₂.eth — Mirror
+
+
+
+
+
+###  大匡 — Mirror
+
+
+
+
+
+###  527.eth — Mirror
+
+
+
+
+
+###  小鱼没事爱玩币 — Mirror
+
+
+
+
+
+###  幣圈躺著賺 — Mirror
+
+
+
+
+
+###  易麦 — Mirror
+
+
+
+
+
+###  日拱一卒王小楼 — Mirror
+
+
+
+
+
+###  社会主义接班人 — Mirror
+
+
+
+
+
+###  🪂🪂🪂空投交互指南🪂🪂🪂 — Mirror
+
+
+
+
+
+###  赤井由根 — Mirror
+
+
+
+
+
+###  链上达人 — Mirror
+
+
+
+
+
+###  Stories by 0xHavel on Medium
+
+
+
+
+
+###  Stories by Jonas Bostoen on Medium
+
+
+
+
+
+
+###  0xb2 — Mirror
+
+
+
+
+
+###  alicemeie — Mirror
+
+
+
+
+
+###  amey — Mirror
+
+
+
+
+
+###  bluestarpin — Mirror
+
+
+
+
+
+###  BTCdayu — Mirror
+
+
+
+
+
+
+###  CryptoATai — Mirror
+
+
+
+
+
+###  ViewDAO — Mirror
+
+
+
+
+
+
+###  K Erica — Mirror
+
+
+
+
+
+###  Kirio.eth — Mirror
+
+
+
+
+
+###  l1ning.eth — Mirror
+
+
+
+
+
+###  msfew — Mirror
+
+
+
+
+
+###  sanpibo — Mirror
+
+
+
+
+
+###  AkaFish — Mirror
+
+
+
+
+
+###  sorosdegen — Mirror
+
+
+
+
+
+###  唐华斑竹 — Mirror
+
+
+
+
+
+###  上官博玉 — Mirror
+
+
+
+
+
+###  不确定思维 — Mirror
+
+
+
+
+
+###  会飞的鱼 — Mirror
+
+
+
+
+
+###  夜思晨 — Mirror
+
+
+
+
+
+###  null — Mirror
+
+
+
+
+
+###  比特币橙子Trader — Mirror
+
+
+
+
+
+###  深潮TechFlow — Mirror
+
+
+
+
+
+###  蜂巢Tech — Mirror
+
+
+
+
+
+###  郭宇 — Mirror
+
+
+
+
+
+###  马蹄橘子 — Mirror
 
 
 
