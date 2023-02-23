@@ -7,6 +7,20 @@
  <outline text="早上" title="早上" >
       <outline text="刘润" title="刘润" type="rss"  
             xmlUrl="https://api.feeddd.org/feeds/613570931269c358aa0f0cca" htmlUrl="https://api.feeddd.org/feeds/613570931269c358aa0f0cca"/>
+      <outline text="lxianshengmiao" title="lxianshengmiao" type="rss"  
+            xmlUrl="http://119.45.23.26:18001/lxianshengmiao.xml" htmlUrl="http://119.45.23.26:18001/lxianshengmiao.xml"/>
+      <outline text="Axu-TongXue" title="Axu-TongXue" type="rss"  
+            xmlUrl="http://119.45.23.26:18001/Axu-TongXue.xml" htmlUrl="http://119.45.23.26:18001/Axu-TongXue.xml"/>
+      <outline text="xinglife1" title="xinglife1" type="rss"  
+            xmlUrl="http://119.45.23.26:18001/xinglife1.xml" htmlUrl="http://119.45.23.26:18001/xinglife1.xml"/>
+      <outline text="caozsay" title="caozsay" type="rss"  
+            xmlUrl="http://119.45.23.26:18001/caozsay.xml" htmlUrl="http://119.45.23.26:18001/caozsay.xml"/>
+      <outline text="guxiaobei365" title="guxiaobei365" type="rss"  
+            xmlUrl="http://119.45.23.26:18001/guxiaobei365.xml" htmlUrl="http://119.45.23.26:18001/guxiaobei365.xml"/>
+      <outline text="sspaime" title="sspaime" type="rss"  
+            xmlUrl="http://119.45.23.26:18001/sspaime.xml" htmlUrl="http://119.45.23.26:18001/sspaime.xml"/>
+      <outline text="runliu-pub" title="runliu-pub" type="rss"  
+            xmlUrl="http://119.45.23.26:18001/runliu-pub.xml" htmlUrl="http://119.45.23.26:18001/runliu-pub.xml"/>
       <outline text="奔跑的奶酪" title="奔跑的奶酪" type="rss"  
             xmlUrl="https://api.feeddd.org/feeds/6132e69f1269c358aa0e773e" htmlUrl="https://api.feeddd.org/feeds/6132e69f1269c358aa0e773e"/>
       <outline text="如有乐享" title="如有乐享" type="rss"  
@@ -14,7 +28,7 @@
       <outline text="Easy Indie" title="Easy Indie" type="rss"  
             xmlUrl="https://www.ezindie.com/feed/rss.xml" htmlUrl="https://www.ezindie.com/feed/rss.xml"/>
       <outline text="ruanyf/weekly" title="ruanyf/weekly" type="rss"  
-            xmlUrl="https://rss.scstudy.site/github/issue/ruanyf/weekly" htmlUrl="https://rss.scstudy.site/github/issue/ruanyf/weekly"/>
+            xmlUrl="https://rsshub.v2fy.com/github/issue/ruanyf/weekly" htmlUrl="https://rsshub.v2fy.com/github/issue/ruanyf/weekly"/>
       <outline text="xunihao" title="xunihao" type="rss"  
             xmlUrl="https://xunihao.net/feed" htmlUrl="https://xunihao.net/feed"/>
       <outline text="好工具周刊" title="好工具周刊" type="rss"  
@@ -46,7 +60,7 @@
       <outline text="环球科学" title="环球科学" type="rss"  
             xmlUrl="https://feedx.net/rss/huanqiukexue.xml" htmlUrl="https://feedx.net/rss/huanqiukexue.xml"/>
       <outline text="MIT 科技评论" title="MIT 科技评论" type="rss"  
-            xmlUrl="https://rss.scstudy.site/mittrchina/hot" htmlUrl="https://rss.scstudy.site/mittrchina/hot"/>
+            xmlUrl="https://rsshub.v2fy.com/mittrchina/hot" htmlUrl="https://rsshub.v2fy.com/mittrchina/hot"/>
       <outline text="知乎" title="知乎" type="rss"  
             xmlUrl="https://www.zhihu.com/rss" htmlUrl="https://www.zhihu.com/rss"/>
       <outline text="湾区日报" title="湾区日报" type="rss"  
@@ -72,11 +86,11 @@
       <outline text="博客园" title="博客园" type="rss"  
             xmlUrl="http://feed.cnblogs.com/blog/sitehome/rss" htmlUrl="http://feed.cnblogs.com/blog/sitehome/rss"/>
       <outline text="吾爱破解" title="吾爱破解" type="rss"  
-            xmlUrl="https://rss.scstudy.site/discuz/x/https%3a%2f%2fwww.52pojie.cn%2fforum-16-1.html" htmlUrl="https://rss.scstudy.site/discuz/x/https%3a%2f%2fwww.52pojie.cn%2fforum-16-1.html"/>
+            xmlUrl="https://rsshub.v2fy.com/discuz/x/https%3a%2f%2fwww.52pojie.cn%2fforum-16-1.html" htmlUrl="https://rsshub.v2fy.com/discuz/x/https%3a%2f%2fwww.52pojie.cn%2fforum-16-1.html"/>
       <outline text="游研社" title="游研社" type="rss"  
             xmlUrl="https://www.yystv.cn/rss/feed" htmlUrl="https://www.yystv.cn/rss/feed"/>
       <outline text="游戏葡萄" title="游戏葡萄" type="rss"  
-            xmlUrl="https://rss.scstudy.site/gamegrape/13" htmlUrl="https://rss.scstudy.site/gamegrape/13"/>
+            xmlUrl="https://rsshub.v2fy.com/gamegrape/13" htmlUrl="https://rsshub.v2fy.com/gamegrape/13"/>
       <outline text="书格" title="书格" type="rss"  
             xmlUrl="https://www.shuge.org/feed/" htmlUrl="https://www.shuge.org/feed/"/>
       <outline text="书伴" title="书伴" type="rss"  
@@ -84,19 +98,19 @@
       <outline text="kindle吧" title="kindle吧" type="rss"  
             xmlUrl="https://www.kindle8.cc/feed" htmlUrl="https://www.kindle8.cc/feed"/>
       <outline text="4K影视屋" title="4K影视屋" type="rss"  
-            xmlUrl="https://rss.scstudy.site/telegram/channel/dianying4K" htmlUrl="https://rss.scstudy.site/telegram/channel/dianying4K"/>
+            xmlUrl="https://rsshub.v2fy.com/telegram/channel/dianying4K" htmlUrl="https://rsshub.v2fy.com/telegram/channel/dianying4K"/>
       <outline text="编程笑话" title="编程笑话" type="rss"  
-            xmlUrl="https://rss.scstudy.site/telegram/channel/programmerjokes" htmlUrl="https://rss.scstudy.site/telegram/channel/programmerjokes"/>
+            xmlUrl="https://rsshub.v2fy.com/telegram/channel/programmerjokes" htmlUrl="https://rsshub.v2fy.com/telegram/channel/programmerjokes"/>
       <outline text="竹新社" title="竹新社" type="rss"  
-            xmlUrl="https://rss.scstudy.site/telegram/channel/tnews365" htmlUrl="https://rss.scstudy.site/telegram/channel/tnews365"/>
+            xmlUrl="https://rsshub.v2fy.com/telegram/channel/tnews365" htmlUrl="https://rsshub.v2fy.com/telegram/channel/tnews365"/>
       <outline text="书和读书" title="书和读书" type="rss"  
-            xmlUrl="https://rss.scstudy.site/telegram/channel/GoReading" htmlUrl="https://rss.scstudy.site/telegram/channel/GoReading"/>
+            xmlUrl="https://rsshub.v2fy.com/telegram/channel/GoReading" htmlUrl="https://rsshub.v2fy.com/telegram/channel/GoReading"/>
       <outline text="阿里云盘资源分享" title="阿里云盘资源分享" type="rss"  
-            xmlUrl="https://rss.scstudy.site/telegram/channel/yunpanpan" htmlUrl="https://rss.scstudy.site/telegram/channel/yunpanpan"/>
+            xmlUrl="https://rsshub.v2fy.com/telegram/channel/yunpanpan" htmlUrl="https://rsshub.v2fy.com/telegram/channel/yunpanpan"/>
       <outline text="扫地僧笔记" title="扫地僧笔记" type="rss"  
-            xmlUrl="https://rss.scstudy.site/telegram/channel/lover_links" htmlUrl="https://rss.scstudy.site/telegram/channel/lover_links"/>
+            xmlUrl="https://rsshub.v2fy.com/telegram/channel/lover_links" htmlUrl="https://rsshub.v2fy.com/telegram/channel/lover_links"/>
       <outline text="树莓派家用云服务器" title="树莓派家用云服务器" type="rss"  
-            xmlUrl="https://rss.scstudy.site/telegram/channel/zhaoolee_pi" htmlUrl="https://rss.scstudy.site/telegram/channel/zhaoolee_pi"/>
+            xmlUrl="https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi" htmlUrl="https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi"/>
 </outline>
 </body>
 </opml>
