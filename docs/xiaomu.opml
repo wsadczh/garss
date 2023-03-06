@@ -5,6 +5,8 @@
 </head>
 <body>
  <outline text="早上" title="早上" >
+   <outline text="GitHubTrendingRSS daily" title="GitHubTrendingRSS daily" type="rss"  
+            xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml"/>
       <outline text="刘润" title="刘润" type="rss"  
             xmlUrl="https://api.feeddd.org/feeds/613570931269c358aa0f0cca" htmlUrl="https://api.feeddd.org/feeds/613570931269c358aa0f0cca"/>
       <outline text="奔跑的奶酪" title="奔跑的奶酪" type="rss"  
