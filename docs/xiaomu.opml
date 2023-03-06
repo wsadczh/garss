@@ -97,8 +97,6 @@
             xmlUrl="https://rss.scstudy.site/telegram/channel/yunpanpan" htmlUrl="https://rss.scstudy.site/telegram/channel/yunpanpan"/>
       <outline text="扫地僧笔记" title="扫地僧笔记" type="rss"  
             xmlUrl="https://rss.scstudy.site/telegram/channel/lover_links" htmlUrl="https://rss.scstudy.site/telegram/channel/lover_links"/>
-      <outline text="树莓派家用云服务器" title="树莓派家用云服务器" type="rss"  
-            xmlUrl="https://rss.scstudy.site/telegram/channel/zhaoolee_pi" htmlUrl="https://rss.scstudy.site/telegram/channel/zhaoolee_pi"/>
 </outline>
 </body>
 </opml>
