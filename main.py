@@ -161,6 +161,8 @@ def cp_readme_md_to_docs():
         int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
     shutil.copyfile(os.path.join(os.getcwd(), "./docs/Temp.md"),
                     os.path.join(os.getcwd(), "docs", f"{post_datetime}.md"))
+    shutil.copyfile(os.path.join(os.getcwd(), "./docs/_sidebar.md"),
+                    os.path.join(os.getcwd(), "docs", f"README.md"))
 
 
 def get_email_list():
@@ -189,8 +191,8 @@ def main():
         file = open("./docs/Temp.md", 'w')
         file.write(readme_md)
         file.close()
-        cp_readme_md_to_docs()
         add_sidebar()
+        cp_readme_md_to_docs()
         email_list = get_email_list()
         print('readme_md', readme_md)
         # 填充统计时间
