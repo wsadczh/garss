@@ -180,8 +180,8 @@ def add_sidebar(new_md):
 
 
 def main():
-    sourceFileList = ['./docs/xiaomu.opml','./docs/web3_150.xml']
-    namelist = ['xiaomu','web3_150']
+    sourceFileList = ['./docs/web3_150.xml','./docs/xiaomu.opml']
+    namelist = ['web3_150','xiaomu']
     index = 0
     add_sidebar('\r\n')
     add_sidebar('\r\n')
