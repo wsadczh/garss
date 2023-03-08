@@ -156,11 +156,11 @@ def replace_readme(sourceFile):
     return markdown_str
 
 # 将README.md复制到docs中
-def cp_readme_md_to_docs():
+def cp_readme_md_to_docs(name):
     post_datetime = datetime.fromtimestamp(
         int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
     shutil.copyfile(os.path.join(os.getcwd(), "./docs/Temp.md"),
-                    os.path.join(os.getcwd(), "docs", f"{post_datetime}.md"))
+                    os.path.join(os.getcwd(), "docs", f"{name}-{post_datetime}.md"))
     shutil.copyfile(os.path.join(os.getcwd(), "./docs/_sidebar.md"),
                     os.path.join(os.getcwd(), "docs", f"README.md"))
 
@@ -174,10 +174,7 @@ def get_email_list():
     return email_list
 
 
-def add_sidebar():
-    post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
-    new_md = f'* [{post_datetime}]({post_datetime}) \r\n'
+def add_sidebar(new_md):
     with open('./docs/_sidebar.md', 'r') as f:
         old_md = f.read()
     with open('./docs/_sidebar.md', 'w') as f:
@@ -186,22 +183,27 @@ def add_sidebar():
 
 def main():
     sourceFileList = ['./docs/xiaomu.opml','./docs/web3_150.xml']
+    namelist = ['xiaomu','web3_150']
+    index = 0
     for sourceFile in sourceFileList:
         readme_md = replace_readme(sourceFile)
+        name = namelist[index]
         file = open("./docs/Temp.md", 'w')
         file.write(readme_md)
         file.close()
-        add_sidebar()
-        cp_readme_md_to_docs()
-        email_list = get_email_list()
-        print('readme_md', readme_md)
         # 填充统计时间
         post_datetime = datetime.fromtimestamp(
-            int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
+        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
+        new_md = f'* [{name}-{post_datetime}]({name}-{post_datetime}) \r\n'
+        add_sidebar(new_md)
+        cp_readme_md_to_docs(namelist[index])
+        email_list = get_email_list()
+        print('readme_md', readme_md)
         try:
-            send_mail(email_list, f"{post_datetime} 文章汇总", readme_md)
+            send_mail(email_list, f"{name}-{post_datetime}", readme_md)
         except Exception as e:
             print("==邮件设信息置错误===》》", e)
+        index = index + 1    
 
 
 if __name__ == "__main__":
