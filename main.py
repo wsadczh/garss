@@ -194,13 +194,13 @@ def main():
         # 填充统计时间
         post_datetime = datetime.fromtimestamp(
         int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
-        new_md = f'* [{name}-{post_datetime}]({name}-{post_datetime}) \r\n'
+        new_md = f'* [{post_datetime}-{name}]({post_datetime}-{name}) \r\n'
         add_sidebar(new_md)
         cp_readme_md_to_docs(namelist[index])
         email_list = get_email_list()
         print('readme_md', readme_md)
         try:
-            send_mail(email_list, f"{name}-{post_datetime}", readme_md)
+            send_mail(email_list, f"{post_datetime}-{name}", readme_md)
         except Exception as e:
             print("==邮件设信息置错误===》》", e)
         index = index + 1    
