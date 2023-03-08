@@ -156,11 +156,9 @@ def replace_readme(sourceFile):
     return markdown_str
 
 # 将README.md复制到docs中
-def cp_readme_md_to_docs(name):
-    post_datetime = datetime.fromtimestamp(
-        int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
+def cp_readme_md_to_docs(filename):
     shutil.copyfile(os.path.join(os.getcwd(), "./docs/Temp.md"),
-                    os.path.join(os.getcwd(), "docs", f"{name}-{post_datetime}.md"))
+                    os.path.join(os.getcwd(), "docs", f"{filename}.md"))
     shutil.copyfile(os.path.join(os.getcwd(), "./docs/_sidebar.md"),
                     os.path.join(os.getcwd(), "docs", f"README.md"))
 
@@ -185,6 +183,9 @@ def main():
     sourceFileList = ['./docs/xiaomu.opml','./docs/web3_150.xml']
     namelist = ['xiaomu','web3_150']
     index = 0
+    add_sidebar('\r\n')
+    add_sidebar('\r\n')
+    add_sidebar('\r\n')
     for sourceFile in sourceFileList:
         readme_md = replace_readme(sourceFile)
         name = namelist[index]
@@ -194,13 +195,14 @@ def main():
         # 填充统计时间
         post_datetime = datetime.fromtimestamp(
         int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
-        new_md = f'* [{post_datetime}-{name}]({post_datetime}-{name}) \r\n'
+        filename = f"{post_datetime}-{name}"
+        new_md = f'* [{filename}]({filename}) \r\n'
         add_sidebar(new_md)
-        cp_readme_md_to_docs(namelist[index])
+        cp_readme_md_to_docs(filename)
         email_list = get_email_list()
         print('readme_md', readme_md)
         try:
-            send_mail(email_list, f"{post_datetime}-{name}", readme_md)
+            send_mail(email_list, f"{filename}", readme_md)
         except Exception as e:
             print("==邮件设信息置错误===》》", e)
         index = index + 1    
