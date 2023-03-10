@@ -143,7 +143,7 @@ def replace_readme(sourceFile):
                 for rss_info_atom in rss_info:
                     if (rss_info_atom["date"] == datetime.today().strftime("%Y-%m-%d")):
                         new_num += 1
-                        onelink_el = f'<a target=_blank rel=nofollow href="{rss_info_atom["link"]}" >{rss_info_atom["title"]}-{rss_info_atom["date"]}</a><br/>'
+                        onelink_el = f'<a target=_blank rel=nofollow href="{rss_info_atom["link"]}" >{rss_info_atom["title"]}-{rss_info_atom["date"]}</a><br/><br/>'
                         markdown_str += onelink_el
                         print('onelink_el', onelink_el)
                 markdown_str += '\r\n'

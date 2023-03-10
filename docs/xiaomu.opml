@@ -70,7 +70,9 @@
       <outline text="业余项目分享交流" title="业余项目分享交流" type="rss"  
             xmlUrl="https://sideproject.buzzing.cc/lite/feed.xml" htmlUrl="https://sideproject.buzzing.cc/lite/feed.xml"/>    
       <outline text="路透社" title="路透社" type="rss"  
-            xmlUrl="https://reuters.buzzing.cc/lite/feed.xml" htmlUrl="https://reuters.buzzing.cc/lite/feed.xml"/>    
+            xmlUrl="https://reuters.buzzing.cc/lite/feed.xml" htmlUrl="https://reuters.buzzing.cc/lite/feed.xml"/>
+      <outline text="owenyoung" title="owenyoung" type="rss"  
+            xmlUrl="https://www.owenyoung.com/categories/journal/atom.xml" htmlUrl="https://www.owenyoung.com/categories/journal/atom.xml"/>             
       <outline text="奇客Solidot–传递最新科技情报" title="奇客Solidot–传递最新科技情报" type="rss"  
             xmlUrl="https://www.solidot.org/index.rss" htmlUrl="https://www.solidot.org/index.rss"/>
       <outline text="环球科学" title="环球科学" type="rss"  
