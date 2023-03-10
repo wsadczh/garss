@@ -147,6 +147,8 @@ def replace_readme(sourceFile):
                         markdown_str += onelink_el
                         print('onelink_el', onelink_el)
                 markdown_str += '\r\n'
+                markdown_str += '\r\n'
+            markdown_str += '\r\n'
             markdown_str += '\r\n'
     post_datetime = datetime.fromtimestamp(
         int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y%m%d%H%M%S')
