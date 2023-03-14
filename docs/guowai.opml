@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>小木rss订阅</title>
+</head>
+<body>
+ <outline text="早上" title="早上" >
+      <outline text="GitHubTrendingRSS daily" title="GitHubTrendingRSS daily" type="rss"  
+            xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml"/>
+      <outline text="GitHubTrendingRSS weekly" title="GitHubTrendingRSS weekly" type="rss"  
+            xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml" htmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml"/>
+      <outline text="GitHubTrendingRSS monthly" title="GitHubTrendingRSS monthly" type="rss"  
+            xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/monthly/all.xml" htmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/monthly/all.xml"/>            
+      <outline text="Hack News" title="Hack News" type="rss"  
+            xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/rss"/>
+      <outline text="showhn" title="showhn" type="rss"  
+            xmlUrl="https://showhn.buzzing.cc/feed.xml" htmlUrl="https://showhn.buzzing.cc/feed.xml"/>
+      <outline text="hnfront" title="hnfront" type="rss"  
+            xmlUrl="https://hnfront.buzzing.cc/" htmlUrl="https://hnfront.buzzing.cc/"/>      
+      <outline text="hnnew" title="hnnew" type="rss"  
+            xmlUrl="https://hnnew.buzzing.cc/feed.xml" htmlUrl="https://hnnew.buzzing.cc/feed.xml"/>     
+      <outline text="Reddit 热门" title="Reddit 热门" type="rss"  
+            xmlUrl="https://reddit.buzzing.cc/feed.xml" htmlUrl="https://reddit.buzzing.cc/feed.xml"/> 
+      <outline text="Reddit 提问" title="Reddit 提问" type="rss"  
+            xmlUrl="https://ask.buzzing.cc/feed.xml" htmlUrl="https://ask.buzzing.cc/feed.xml"/>  
+      <outline text="加密货币国外热门讨论" title="加密货币国外热门讨论" type="rss"  
+            xmlUrl="https://crypto.buzzing.cc/feed.xml" htmlUrl="https://crypto.buzzing.cc/feed.xml"/>        
+      <outline text="Quora 热门回答" title="Quora 热门回答" type="rss"  
+            xmlUrl="https://quora.buzzing.cc/feed.xml" htmlUrl="https://quora.buzzing.cc/feed.xml"/>    
+      <outline text="Dev.to 热门" title="Dev.to 热门" type="rss"  
+            xmlUrl="https://dev.buzzing.cc/feed.xml" htmlUrl="https://dev.buzzing.cc/feed.xml"/>              
+      <outline text="Product Hunt 热门 Lite" title="Product Hunt 热门 Lite" type="rss"  
+            xmlUrl="https://ph.buzzing.cc/lite/feed.xml" htmlUrl="https://ph.buzzing.cc/lite/feed.xml"/>  
+      <outline text="国外科技头条 Lite" title="国外科技头条 Lite" type="rss"  
+            xmlUrl="https://tech.buzzing.cc/lite/feed.xml" htmlUrl="https://tech.buzzing.cc/lite/feed.xml"/>      
+      <outline text="业余项目分享交流" title="业余项目分享交流" type="rss"  
+            xmlUrl="https://sideproject.buzzing.cc/lite/feed.xml" htmlUrl="https://sideproject.buzzing.cc/lite/feed.xml"/>    
+      <outline text="路透社" title="路透社" type="rss"  
+            xmlUrl="https://reuters.buzzing.cc/lite/feed.xml" htmlUrl="https://reuters.buzzing.cc/lite/feed.xml"/>
+      <outline text="owenyoung" title="owenyoung" type="rss"  
+            xmlUrl="https://www.owenyoung.com/categories/journal/atom.xml" htmlUrl="https://www.owenyoung.com/categories/journal/atom.xml"/> 
+      <outline text="Magic" title="Magic" type="rss"  
+            xmlUrl="https://www.reddit.com/r/Magic.rss " htmlUrl="https://www.reddit.com/r/Magic.rss "/> 
+</outline>
+</body>
+</opml>
