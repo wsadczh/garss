@@ -201,12 +201,12 @@ def main():
         new_md = f'* [{filename}]({filename}) \r\n'
         add_sidebar(new_md)
         cp_readme_md_to_docs(filename)
-        email_list = get_email_list()
-        print('readme_md', readme_md)
-        try:
-            send_mail(email_list, f"{filename}", readme_md)
-        except Exception as e:
-            print("==邮件设信息置错误===》》", e)
+        #email_list = get_email_list()
+        #print('readme_md', readme_md)
+       ## try:
+       #     send_mail(email_list, f"{filename}", readme_md)
+       # except Exception as e:
+       #     print("==邮件设信息置错误===》》", e)
         index = index + 1    
 
 
