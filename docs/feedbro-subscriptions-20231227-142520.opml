@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="web3" text="web3">
+      <outline text="Odaily星球日报 | 区块链新闻数据资讯媒体" title="Odaily星球日报 | 区块链新闻数据资讯媒体" type="rss" 
+            xmlUrl="http://www.odaily.news/v1/openapi/odailyrss" htmlUrl="https://www.odaily.news"/>
+      <outline text="PA精选" title="PANews News" type="rss" 
+            xmlUrl="https://rss.panewslab.com/zh_hk/gtimg/rss" htmlUrl="https://rss.panewslab.com/"/>
+      <outline text="PANews News" title="PANews News" type="rss" 
+            xmlUrl="https://rss.panewslab.com/zh_hk/tvsq/rss" htmlUrl="https://rss.panewslab.com/"/>
+      <outline text="The Black Swan 📈" title="The Black Swan 📈" type="rss" 
+            xmlUrl="https://route2fi.substack.com/feed" htmlUrl="https://route2fi.substack.com"/>
+      <outline text="币圈科学家旺仔【官方频道 欢迎订阅】" title="币圈科学家旺仔【官方频道 欢迎订阅】" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX3J_A7EG437G8X857fBZfQ" htmlUrl="https://www.youtube.com/channel/UCX3J_A7EG437G8X857fBZfQ"/>
+      <outline text="蓝蚁咨询" title="蓝蚁咨询" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHm5CAIxb79Y_MTlRP9ntvQ" htmlUrl="https://www.youtube.com/channel/UCHm5CAIxb79Y_MTlRP9ntvQ"/>
+  </outline>
+  <outline title="科技资讯" text="科技资讯">
+      <outline text="量子位" title="量子位" type="rss" 
+            xmlUrl="https://www.qbitai.com/feed" htmlUrl="https://www.qbitai.com"/>
+      <outline text="让小产品的独立变现更简单 - ezindie.com" title="让小产品的独立变现更简单 - ezindie.com" type="rss" 
+            xmlUrl="https://www.ezindie.com/feed/rss.xml" htmlUrl="https://www.ezindie.com/weekly"/>
+      <outline text="Product Hunt 热门 Lite" title="Product Hunt 热门 Lite" type="rss" 
+            xmlUrl="https://ph.buzzing.cc/lite/feed.xml" htmlUrl="https://ph.buzzing.cc/lite/"/>
+      <outline text="少数派" title="少数派" type="rss" 
+            xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
+      <outline text="HelloGitHub 月刊" title="HelloGitHub 月刊" type="rss" 
+            xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com"/>
+      <outline text="豌豆花下猫" title="豌豆花下猫" type="rss" 
+            xmlUrl="https://pythoncat.top/rss.xml" htmlUrl="https://pythoncat.top/"/>
+      <outline text="V2EX" title="V2EX" type="rss" 
+            xmlUrl="https://www.v2ex.com/index.xml" htmlUrl="https://www.v2ex.com/"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
+            xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="小众软件" title="小众软件" type="rss" 
+            xmlUrl="https://www.appinn.com/feed/" htmlUrl="https://www.appinn.com"/>
+      <outline text="如有乐享" title="如有乐享" type="rss" 
+            xmlUrl="https://51.ruyo.net/feed" htmlUrl="https://51.ruyo.net"/>
+      <outline text="知乎每日精选" title="知乎每日精选" type="rss" 
+            xmlUrl="https://www.zhihu.com/rss" htmlUrl="http://www.zhihu.com"/>
+      <outline text="Reddit 热门提问" title="Reddit 热门提问" type="rss" 
+            xmlUrl="https://ask.buzzing.cc/feed.xml" htmlUrl="https://ask.buzzing.cc/"/>
+      <outline text="国外科技头条 Lite" title="国外科技头条 Lite" type="rss" 
+            xmlUrl="https://tech.buzzing.cc/lite/feed.xml" htmlUrl="https://tech.buzzing.cc/lite/"/>
+      <outline text="Hacker News 最新提交" title="Hacker News 最新提交" type="rss" 
+            xmlUrl="https://hnnew.buzzing.cc/feed.xml" htmlUrl="https://hnnew.buzzing.cc/"/>
+      <outline text="Hacker News" title="Hacker News" type="rss" 
+            xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" type="rss" 
+            xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com"/>
+      <outline text="weekly 标签活动" title="weekly 标签活动" type="rss" 
+            xmlUrl="https://discuss-cn.bestxtools.com/atom/t/weekly"/>
+      <outline text="不死鸟 - 分享为王官网" title="不死鸟 - 分享为王官网" type="rss" 
+            xmlUrl="https://iao.su/feed" htmlUrl="https://iui.su/"/>
+      <outline text="精品MAC应用分享" title="精品MAC应用分享" type="rss" 
+            xmlUrl="https://xclient.info/feed" htmlUrl="https://xclient.info/"/>
+      <outline text="加密货币国外热门讨论" title="加密货币国外热门讨论" type="rss" 
+            xmlUrl="https://crypto.buzzing.cc/feed.xml" htmlUrl="https://crypto.buzzing.cc/"/>
+      <outline text="Dev.to 热门" title="Dev.to 热门" type="rss" 
+            xmlUrl="https://dev.buzzing.cc/feed.xml" htmlUrl="https://dev.buzzing.cc/"/>
+      <outline text="Quora 热门回答" title="Quora 热门回答" type="rss" 
+            xmlUrl="https://quora.buzzing.cc/feed.xml" htmlUrl="https://quora.buzzing.cc/"/>
+      <outline text="虚拟号" title="虚拟号" type="rss" 
+            xmlUrl="https://xunihao.net/feed" htmlUrl="https://xunihao.net"/>
+      <outline text="Owen的博客 - Journal" title="Owen的博客 - Journal" type="rss" 
+            xmlUrl="https://www.owenyoung.com/categories/journal/atom.xml"/>
+      <outline text="路透社 Lite" title="路透社 Lite" type="rss" 
+            xmlUrl="https://reuters.buzzing.cc/lite/feed.xml" htmlUrl="https://reuters.buzzing.cc/lite/"/>
+      <outline text="WordPress大学" title="WordPress大学" type="rss" 
+            xmlUrl="https://www.wpdaxue.com/feed" htmlUrl="https://www.wpdaxue.com"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="zhangferry的技术博客" title="zhangferry的技术博客" type="rss" 
+            xmlUrl="https://zhangferry.com/atom.xml" htmlUrl="https://zhangferry.com"/>
+      <outline text="1Link.Fun 科技周刊" title="1Link.Fun 科技周刊" type="rss" 
+            xmlUrl="https://1link.fun/index.xml" htmlUrl="https://1link.fun/"/>
+      <outline text="周刊 on 子舒的博客" title="周刊 on 子舒的博客" type="rss" 
+            xmlUrl="https://zishu.me/categories/%E5%91%A8%E5%88%8A/index.xml" htmlUrl="/categories/%E5%91%A8%E5%88%8A/"/>
+      <outline text="小棉袄的百味人生" title="小棉袄的百味人生" type="rss" 
+            xmlUrl="https://haikuoshijie.cn/feed/" htmlUrl="https://haikuoshijie.cn"/>
+      <outline text="老胡的周刊" title="老胡的周刊" type="rss" 
+            xmlUrl="https://weekly.howie6879.com/rss/rss.xml" htmlUrl="https://weekly.howie6879.com/"/>
+      <outline text="BLUE·周刊" title="BLUE·周刊" type="rss" 
+            xmlUrl="https://rsshub.rssforever.com/zhubai/huazi" htmlUrl="https://huazi.zhubai.love/"/>
+      <outline text="Airing Weekly" title="Airing Weekly" type="rss" 
+            xmlUrl="https://weekly.ursb.me/index.xml" htmlUrl="https://weekly.ursb.me/"/>
+      <outline text="AIGC Weekly" title="AIGC Weekly" type="rss" 
+            xmlUrl="https://quail.ink/op7418/feed/atom"/>
+  </outline>
+  <outline title="app" text="app">
+      <outline text="掘金专栏-人工智能周刊" title="掘金专栏-人工智能周刊" type="rss" 
+            xmlUrl="https://rss-hub-git-master-wsadczh.vercel.app/juejin/column/7187392655192490043" htmlUrl="https://juejin.cn/column/7187392655192490043"/>
+      <outline text="掘金专栏-酱酱们的每日掘金" title="掘金专栏-酱酱们的每日掘金" type="rss" 
+            xmlUrl="https://rss-hub-git-master-wsadczh.vercel.app/juejin/column/7107151273765371941" htmlUrl="https://juejin.cn/column/7107151273765371941"/>
+      <outline text="掘金 React Native" title="掘金 React Native" type="rss" 
+            xmlUrl="https://rss-hub-git-master-wsadczh.vercel.app/juejin/tag/React%20Native" htmlUrl="https://juejin.cn/tag/React%20Native"/>
+      <outline text="掘金 iOS" title="掘金 iOS" type="rss" 
+            xmlUrl="https://rss-hub-git-master-wsadczh.vercel.app/juejin/tag/iOS" htmlUrl="https://juejin.cn/tag/iOS"/>
+      <outline text="Swift社区" title="Swift社区" type="rss" 
+            xmlUrl="https://fanbaoying.github.io/atom.xml"/>
+      <outline text="掘金 Dart" title="掘金 Dart" type="rss" 
+            xmlUrl="https://rss-hub-git-master-wsadczh.vercel.app/juejin/tag/Dart" htmlUrl="https://juejin.cn/tag/Dart"/>
+      <outline text="掘金 Flutter" title="掘金 Flutter" type="rss" 
+            xmlUrl="https://rss-hub-git-master-wsadczh.vercel.app/juejin/tag/Flutter" htmlUrl="https://juejin.cn/tag/Flutter"/>
+      <outline text="掘金专栏-Flutter House" title="掘金专栏-Flutter House" type="rss" 
+            xmlUrl="https://rss-hub-git-master-wsadczh.vercel.app/juejin/column/6960546078202527774" htmlUrl="https://juejin.cn/column/6960546078202527774"/>
+      <outline text="ios周报" title="Release notes from iOS-Weekly" type="rss" 
+            xmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom" htmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases"/>
+      <outline text="AppSo ‧ 鲜面连线" title="AppSo ‧ 鲜面连线" type="rss" 
+            xmlUrl="https://rss-hub-git-master-wsadczh.vercel.app/tophub/YqoXQLXvOD" htmlUrl="https://tophub.today/n/YqoXQLXvOD"/>
+  </outline>
+</body>
+</opml>

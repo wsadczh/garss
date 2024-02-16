@@ -182,11 +182,11 @@ def add_sidebar(new_md):
 
 
 def main():
-    # sourceFileList = ['./docs/web3_150.xml','./docs/guowai.opml','./docs/xiaomu.opml']
-    # namelist = ['web3_150','guowai','xiaomu']
+    sourceFileList = ['./docs/feedbro-subscriptions-20231227-142520.opml','./docs/guowai.opml','./docs/xiaomu.opml']
+    namelist = ['web3','guowai','xiaomu']
 
-    sourceFileList = ['./docs/guowai.opml','./docs/xiaomu.opml']
-    namelist = ['guowai','xiaomu']
+    # sourceFileList = ['./docs/guowai.opml','./docs/xiaomu.opml']
+    # namelist = ['guowai','xiaomu']
     index = 0
     add_sidebar('\r\n')
     add_sidebar('\r\n')
